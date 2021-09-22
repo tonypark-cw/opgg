@@ -1,0 +1,2203 @@
+,map_name,started,weap_name,d_reason,d_category
+0,Miramar,2020-08-16T17:13:20.1316053Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1,Miramar,2020-08-16T17:13:20.1316053Z,WeapSCAR-L_C,PelvisShot,Damage_Gun
+2,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,TorsoShot,Damage_Gun
+3,Miramar,2020-08-16T17:13:20.1316053Z,WeapSCAR-L_C,HeadShot,Damage_Gun
+4,Miramar,2020-08-16T17:13:20.1316053Z,WeapFNFal_C,TorsoShot,Damage_Gun
+5,Miramar,2020-08-16T17:13:20.1316053Z,WeapBerylM762_C,HeadShot,Damage_Gun
+6,Miramar,2020-08-16T17:13:20.1316053Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+7,Miramar,2020-08-16T17:13:20.1316053Z,PlayerFemale_A_C,None,Damage_Groggy
+8,Miramar,2020-08-16T17:13:20.1316053Z,PlayerMale_A_C,None,Damage_Groggy
+9,Miramar,2020-08-16T17:13:20.1316053Z,PlayerMale_A_C,None,Damage_Groggy
+10,Miramar,2020-08-16T17:13:20.1316053Z,PlayerFemale_A_C,None,Damage_Groggy
+11,Miramar,2020-08-16T17:13:20.1316053Z,WeapHK416_C,TorsoShot,Damage_Gun
+12,Miramar,2020-08-16T17:13:20.1316053Z,WeapHK416_C,HeadShot,Damage_Gun
+13,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,TorsoShot,Damage_Gun
+14,Miramar,2020-08-16T17:13:20.1316053Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+15,Miramar,2020-08-16T17:13:20.1316053Z,WeapHK416_C,HeadShot,Damage_Gun
+16,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,TorsoShot,Damage_Gun
+17,Miramar,2020-08-16T17:13:20.1316053Z,WeapHK416_C,TorsoShot,Damage_Gun
+18,Miramar,2020-08-16T17:13:20.1316053Z,WeapHK416_C,TorsoShot,Damage_Gun
+19,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,TorsoShot,Damage_Gun
+20,Miramar,2020-08-16T17:13:20.1316053Z,WeapFNFal_C,PelvisShot,Damage_Gun
+21,Miramar,2020-08-16T17:13:20.1316053Z,WeapHK416_C,HeadShot,Damage_Gun
+22,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,ArmShot,Damage_Gun
+23,Miramar,2020-08-16T17:13:20.1316053Z,WeapHK416_C,HeadShot,Damage_Gun
+24,Miramar,2020-08-16T17:13:20.1316053Z,WeapHK416_C,TorsoShot,Damage_Gun
+25,Miramar,2020-08-16T17:13:20.1316053Z,WeapAK47_C,TorsoShot,Damage_Gun
+26,Miramar,2020-08-16T17:13:20.1316053Z,WeapHK416_C,TorsoShot,Damage_Gun
+27,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,TorsoShot,Damage_Gun
+28,Miramar,2020-08-16T17:13:20.1316053Z,PlayerMale_A_C,None,Damage_Groggy
+29,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,HeadShot,Damage_Gun
+30,Miramar,2020-08-16T17:13:20.1316053Z,WeapAK47_C,TorsoShot,Damage_Gun
+31,Miramar,2020-08-16T17:13:20.1316053Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+32,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,LegShot,Damage_Gun
+33,Miramar,2020-08-16T17:13:20.1316053Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+34,Miramar,2020-08-16T17:13:20.1316053Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+35,Miramar,2020-08-16T17:13:20.1316053Z,WeapSKS_C,ArmShot,Damage_Gun
+36,Miramar,2020-08-16T17:13:20.1316053Z,WeapHK416_C,TorsoShot,Damage_Gun
+37,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,LegShot,Damage_Gun
+38,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,TorsoShot,Damage_Gun
+39,Miramar,2020-08-16T17:13:20.1316053Z,PlayerFemale_A_C,None,Damage_Groggy
+40,Miramar,2020-08-16T17:13:20.1316053Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+41,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,TorsoShot,Damage_Gun
+42,Miramar,2020-08-16T17:13:20.1316053Z,PlayerFemale_A_C,None,Damage_Groggy
+43,Miramar,2020-08-16T17:13:20.1316053Z,WeapMini14_C,TorsoShot,Damage_Gun
+44,Miramar,2020-08-16T17:13:20.1316053Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+45,Miramar,2020-08-16T17:13:20.1316053Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+46,Miramar,2020-08-16T17:13:20.1316053Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+47,Miramar,2020-08-16T17:13:20.1316053Z,PlayerFemale_A_C,None,Damage_Groggy
+48,Miramar,2020-08-16T17:13:20.1316053Z,PlayerFemale_A_C,None,Damage_Groggy
+49,Miramar,2020-08-16T17:13:20.1316053Z,WeapSKS_C,LegShot,Damage_Gun
+50,Miramar,2020-08-16T17:13:20.1316053Z,PlayerFemale_A_C,None,Damage_Groggy
+51,Miramar,2020-08-16T17:13:20.1316053Z,PlayerFemale_A_C,None,Damage_Groggy
+52,Miramar,2020-08-16T17:13:20.1316053Z,WeapBerylM762_C,HeadShot,Damage_Gun
+53,Miramar,2020-08-16T17:13:20.1316053Z,WeapBerylM762_C,HeadShot,Damage_Gun
+54,Miramar,2020-08-16T17:13:20.1316053Z,PlayerMale_A_C,None,Damage_Groggy
+55,Miramar,2020-08-16T17:13:20.1316053Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+56,Miramar,2020-08-16T17:13:20.1316053Z,WeapBerylM762_C,HeadShot,Damage_Gun
+57,Miramar,2020-08-16T17:13:20.1316053Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+58,Miramar,2020-08-16T17:13:20.1316053Z,PlayerFemale_A_C,None,Damage_Groggy
+59,Miramar,2020-08-16T17:13:20.1316053Z,WeapAUG_C,TorsoShot,Damage_Gun
+60,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapHK416_C,TorsoShot,Damage_Gun
+61,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+62,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,HeadShot,Damage_Gun
+63,Erangel (Remastered),2020-08-14T18:35:13.230186Z,PlayerFemale_A_C,None,Damage_Groggy
+64,Erangel (Remastered),2020-08-14T18:35:13.230186Z,PlayerFemale_A_C,None,Damage_Groggy
+65,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapHK416_C,HeadShot,Damage_Gun
+66,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapMini14_C,LegShot,Damage_Gun
+67,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+68,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapHK416_C,TorsoShot,Damage_Gun
+69,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapMini14_C,PelvisShot,Damage_Gun
+70,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapHK416_C,HeadShot,Damage_Gun
+71,Erangel (Remastered),2020-08-14T18:35:13.230186Z,PlayerFemale_A_C,None,Damage_Groggy
+72,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapMini14_C,TorsoShot,Damage_Gun
+73,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+74,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,LegShot,Damage_Gun
+75,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapMini14_C,LegShot,Damage_Gun
+76,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapSKS_C,TorsoShot,Damage_Gun
+77,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+78,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,HeadShot,Damage_Gun
+79,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+80,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapFNFal_C,TorsoShot,Damage_Gun
+81,Erangel (Remastered),2020-08-14T18:35:13.230186Z,PlayerFemale_A_C,None,Damage_Groggy
+82,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapFNFal_C,TorsoShot,Damage_Gun
+83,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapSKS_C,TorsoShot,Damage_Gun
+84,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapFNFal_C,TorsoShot,Damage_Gun
+85,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+86,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+87,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+88,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapSKS_C,HeadShot,Damage_Gun
+89,Erangel (Remastered),2020-08-14T18:35:13.230186Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+90,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapSKS_C,TorsoShot,Damage_Gun
+91,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapFNFal_C,TorsoShot,Damage_Gun
+92,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapSKS_C,TorsoShot,Damage_Gun
+93,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapMini14_C,TorsoShot,Damage_Gun
+94,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapFNFal_C,PelvisShot,Damage_Gun
+95,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,LegShot,Damage_Gun
+96,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapFNFal_C,TorsoShot,Damage_Gun
+97,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapSKS_C,LegShot,Damage_Gun
+98,Erangel (Remastered),2020-08-14T18:35:13.230186Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+99,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapFNFal_C,LegShot,Damage_Gun
+100,Erangel (Remastered),2020-08-14T18:35:13.230186Z,PlayerFemale_A_C,None,Damage_Groggy
+101,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapSKS_C,TorsoShot,Damage_Gun
+102,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapFNFal_C,PelvisShot,Damage_Gun
+103,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapSKS_C,TorsoShot,Damage_Gun
+104,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapMini14_C,ArmShot,Damage_Gun
+105,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapFNFal_C,TorsoShot,Damage_Gun
+106,Erangel (Remastered),2020-08-14T18:35:13.230186Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+107,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+108,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,LegShot,Damage_Gun
+109,Erangel (Remastered),2020-08-14T18:35:13.230186Z,PlayerFemale_A_C,None,Damage_Groggy
+110,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,HeadShot,Damage_Gun
+111,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+112,Erangel (Remastered),2020-08-14T18:35:13.230186Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+113,Erangel (Remastered),2020-08-14T18:35:13.230186Z,PlayerMale_A_C,None,Damage_Groggy
+114,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,HeadShot,Damage_Gun
+115,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapFNFal_C,TorsoShot,Damage_Gun
+116,Erangel (Remastered),2020-08-14T18:35:13.230186Z,PlayerFemale_A_C,None,Damage_Groggy
+117,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapSKS_C,HeadShot,Damage_Gun
+118,Erangel (Remastered),2020-08-14T18:35:13.230186Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+119,Erangel (Remastered),2020-08-14T18:35:13.230186Z,PlayerFemale_A_C,None,Damage_Groggy
+120,Erangel (Remastered),2020-08-14T18:35:13.230186Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+121,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerMale_A_C,TorsoShot,Damage_Punch
+122,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapMini14_C,PelvisShot,Damage_Gun
+123,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,None,NonSpecific,Damage_Explosion_Vehicle
+124,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+125,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+126,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapHK416_C,TorsoShot,Damage_Gun
+127,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapSKS_C,HeadShot,Damage_Gun
+128,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+129,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapMini14_C,LegShot,Damage_Gun
+130,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapSKS_C,ArmShot,Damage_Gun
+131,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+132,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+133,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+134,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+135,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,ArmShot,Damage_Gun
+136,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapMini14_C,LegShot,Damage_Gun
+137,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerMale_A_C,None,Damage_Groggy
+138,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+139,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+140,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+141,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapFNFal_C,HeadShot,Damage_Gun
+142,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+143,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,HeadShot,Damage_Gun
+144,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+145,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+146,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+147,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,HeadShot,Damage_Gun
+148,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapMini14_C,TorsoShot,Damage_Gun
+149,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapFNFal_C,PelvisShot,Damage_Gun
+150,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+151,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+152,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapFNFal_C,LegShot,Damage_Gun
+153,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapFNFal_C,TorsoShot,Damage_Gun
+154,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+155,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapMini14_C,TorsoShot,Damage_Gun
+156,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapMini14_C,HeadShot,Damage_Gun
+157,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapFNFal_C,TorsoShot,Damage_Gun
+158,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,HeadShot,Damage_Gun
+159,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+160,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,HeadShot,Damage_Gun
+161,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+162,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+163,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+164,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+165,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapSKS_C,TorsoShot,Damage_Gun
+166,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapHK416_C,HeadShot,Damage_Gun
+167,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,ArmShot,Damage_Gun
+168,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+169,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+170,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+171,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+172,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapFNFal_C,HeadShot,Damage_Gun
+173,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,PlayerFemale_A_C,None,Damage_Groggy
+174,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapMini14_C,HeadShot,Damage_Gun
+175,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapFNFal_C,PelvisShot,Damage_Gun
+176,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+177,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapFNFal_C,HeadShot,Damage_Gun
+178,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapFNFal_C,HeadShot,Damage_Gun
+179,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapMini14_C,HeadShot,Damage_Gun
+180,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapBerylM762_C,LegShot,Damage_Gun
+181,Erangel (Remastered),2020-08-14T17:55:07.0227511Z,WeapHK416_C,TorsoShot,Damage_Gun
+182,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapM16A4_C,PelvisShot,Damage_Gun
+183,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapM16A4_C,TorsoShot,Damage_Gun
+184,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBizonPP19_C,HeadShot,Damage_Gun
+185,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerFemale_A_C,None,Damage_Groggy
+186,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+187,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerFemale_A_C,None,Damage_Groggy
+188,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerMale_A_C,None,Damage_Groggy
+189,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerFemale_A_C,None,Damage_Groggy
+190,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapAK47_C,TorsoShot,Damage_Gun
+191,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapMini14_C,ArmShot,Damage_Gun
+192,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerFemale_A_C,None,Damage_Groggy
+193,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapSCAR-L_C,LegShot,Damage_Gun
+194,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapHK416_C,PelvisShot,Damage_Gun
+195,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+196,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapFNFal_C,LegShot,Damage_Gun
+197,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapMk14_C,TorsoShot,Damage_Gun
+198,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+199,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+200,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+201,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapHK416_C,HeadShot,Damage_Gun
+202,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+203,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapHK416_C,ArmShot,Damage_Gun
+204,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,HeadShot,Damage_Gun
+205,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapFNFal_C,LegShot,Damage_Gun
+206,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapFNFal_C,TorsoShot,Damage_Gun
+207,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapFNFal_C,LegShot,Damage_Gun
+208,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerMale_A_C,None,Damage_Groggy
+209,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapFNFal_C,TorsoShot,Damage_Gun
+210,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapHK416_C,TorsoShot,Damage_Gun
+211,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapFNFal_C,LegShot,Damage_Gun
+212,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,Dacia_A_03_v2_Esports_C,NonSpecific,Damage_VehicleHit
+213,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+214,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerMale_A_C,None,Damage_Groggy
+215,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapFNFal_C,LegShot,Damage_Gun
+216,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+217,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapMini14_C,LegShot,Damage_Gun
+218,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+219,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+220,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,HeadShot,Damage_Gun
+221,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+222,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapMini14_C,HeadShot,Damage_Gun
+223,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,HeadShot,Damage_Gun
+224,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerFemale_A_C,None,Damage_Groggy
+225,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapFNFal_C,TorsoShot,Damage_Gun
+226,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerMale_A_C,None,Damage_Groggy
+227,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+228,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+229,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapMini14_C,PelvisShot,Damage_Gun
+230,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+231,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerFemale_A_C,None,Damage_Groggy
+232,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+233,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapFNFal_C,HeadShot,Damage_Gun
+234,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+235,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+236,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerMale_A_C,None,Damage_Groggy
+237,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapFNFal_C,TorsoShot,Damage_Gun
+238,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerMale_A_C,None,Damage_Groggy
+239,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+240,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,WeapFNFal_C,LegShot,Damage_Gun
+241,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,PlayerFemale_A_C,None,Damage_Groggy
+242,Erangel (Remastered),2020-08-09T19:18:52.4657537Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+243,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBizonPP19_C,PelvisShot,Damage_Gun
+244,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+245,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+246,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerMale_A_C,None,Damage_Groggy
+247,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+248,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,LegShot,Damage_Gun
+249,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,Buggy_A_02_C,NonSpecific,Damage_VehicleHit
+250,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+251,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,HeadShot,Damage_Gun
+252,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+253,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+254,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+255,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapMini14_C,TorsoShot,Damage_Gun
+256,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapFNFal_C,LegShot,Damage_Gun
+257,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapFNFal_C,TorsoShot,Damage_Gun
+258,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapAK47_C,TorsoShot,Damage_Gun
+259,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapHK416_C,PelvisShot,Damage_Gun
+260,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+261,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapMini14_C,TorsoShot,Damage_Gun
+262,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+263,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerMale_A_C,None,Damage_Groggy
+264,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+265,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+266,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+267,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapFNFal_C,TorsoShot,Damage_Gun
+268,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapFNFal_C,TorsoShot,Damage_Gun
+269,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+270,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapFNFal_C,TorsoShot,Damage_Gun
+271,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+272,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+273,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapMini14_C,TorsoShot,Damage_Gun
+274,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+275,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,ArmShot,Damage_Gun
+276,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+277,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+278,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapKar98k_C,HeadShot,Damage_Gun
+279,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,HeadShot,Damage_Gun
+280,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+281,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+282,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+283,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapFNFal_C,LegShot,Damage_Gun
+284,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+285,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapFNFal_C,TorsoShot,Damage_Gun
+286,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapFNFal_C,HeadShot,Damage_Gun
+287,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+288,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+289,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+290,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,HeadShot,Damage_Gun
+291,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+292,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+293,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,ArmShot,Damage_Gun
+294,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+295,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapFNFal_C,TorsoShot,Damage_Gun
+296,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+297,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+298,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapFNFal_C,TorsoShot,Damage_Gun
+299,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,LegShot,Damage_Gun
+300,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,HeadShot,Damage_Gun
+301,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,HeadShot,Damage_Gun
+302,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,PlayerFemale_A_C,None,Damage_Groggy
+303,Erangel (Remastered),2020-08-08T18:34:16.3869291Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+304,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,NonSpecific,Damage_Instant_Fall
+305,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,LegShot,Damage_Gun
+306,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,LegShot,Damage_Gun
+307,Miramar,2020-08-08T17:11:18.5573816Z,WeapHK416_C,HeadShot,Damage_Gun
+308,Miramar,2020-08-08T17:11:18.5573816Z,WeapHK416_C,PelvisShot,Damage_Gun
+309,Miramar,2020-08-08T17:11:18.5573816Z,WeapHK416_C,LegShot,Damage_Gun
+310,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+311,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+312,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+313,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+314,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+315,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+316,Miramar,2020-08-08T17:11:18.5573816Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+317,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+318,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,HeadShot,Damage_Gun
+319,Miramar,2020-08-08T17:11:18.5573816Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+320,Miramar,2020-08-08T17:11:18.5573816Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+321,Miramar,2020-08-08T17:11:18.5573816Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+322,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,ArmShot,Damage_Gun
+323,Miramar,2020-08-08T17:11:18.5573816Z,WeapFNFal_C,ArmShot,Damage_Gun
+324,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,HeadShot,Damage_Gun
+325,Miramar,2020-08-08T17:11:18.5573816Z,WeapSKS_C,TorsoShot,Damage_Gun
+326,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+327,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+328,Miramar,2020-08-08T17:11:18.5573816Z,WeapSKS_C,TorsoShot,Damage_Gun
+329,Miramar,2020-08-08T17:11:18.5573816Z,WeapSKS_C,TorsoShot,Damage_Gun
+330,Miramar,2020-08-08T17:11:18.5573816Z,PlayerMale_A_C,None,Damage_Groggy
+331,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+332,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+333,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+334,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+335,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,TorsoShot,Damage_Gun
+336,Miramar,2020-08-08T17:11:18.5573816Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+337,Miramar,2020-08-08T17:11:18.5573816Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+338,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,TorsoShot,Damage_Gun
+339,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+340,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+341,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,HeadShot,Damage_Gun
+342,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+343,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,HeadShot,Damage_Gun
+344,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,HeadShot,Damage_Gun
+345,Miramar,2020-08-08T17:11:18.5573816Z,WeapHK416_C,HeadShot,Damage_Gun
+346,Miramar,2020-08-08T17:11:18.5573816Z,WeapFNFal_C,PelvisShot,Damage_Gun
+347,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+348,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+349,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,HeadShot,Damage_Gun
+350,Miramar,2020-08-08T17:11:18.5573816Z,WeapSKS_C,HeadShot,Damage_Gun
+351,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,TorsoShot,Damage_Gun
+352,Miramar,2020-08-08T17:11:18.5573816Z,PlayerMale_A_C,None,Damage_Groggy
+353,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,PelvisShot,Damage_Gun
+354,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+355,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+356,Miramar,2020-08-08T17:11:18.5573816Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+357,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,HeadShot,Damage_Gun
+358,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+359,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+360,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+361,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,TorsoShot,Damage_Gun
+362,Miramar,2020-08-08T17:11:18.5573816Z,WeapMini14_C,TorsoShot,Damage_Gun
+363,Miramar,2020-08-08T17:11:18.5573816Z,PlayerFemale_A_C,None,Damage_Groggy
+364,Miramar,2020-08-08T17:11:18.5573816Z,WeapBerylM762_C,HeadShot,Damage_Gun
+365,Miramar,2020-08-07T16:29:19.401034Z,PlayerFemale_A_C,None,Damage_Groggy
+366,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+367,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,LegShot,Damage_Gun
+368,Miramar,2020-08-07T16:29:19.401034Z,PlayerFemale_A_C,None,Damage_Groggy
+369,Miramar,2020-08-07T16:29:19.401034Z,PlayerFemale_A_C,None,Damage_Groggy
+370,Miramar,2020-08-07T16:29:19.401034Z,PlayerFemale_A_C,None,Damage_Groggy
+371,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+372,Miramar,2020-08-07T16:29:19.401034Z,WeapSKS_C,HeadShot,Damage_Gun
+373,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,PelvisShot,Damage_Gun
+374,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,HeadShot,Damage_Gun
+375,Miramar,2020-08-07T16:29:19.401034Z,WeapSKS_C,LegShot,Damage_Gun
+376,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,NonSpecific,Damage_Explosion_Vehicle
+377,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+378,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+379,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,LegShot,Damage_Gun
+380,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,LegShot,Damage_Gun
+381,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,TorsoShot,Damage_Gun
+382,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+383,Miramar,2020-08-07T16:29:19.401034Z,WeapHK416_C,TorsoShot,Damage_Gun
+384,Miramar,2020-08-07T16:29:19.401034Z,WeapSKS_C,HeadShot,Damage_Gun
+385,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+386,Miramar,2020-08-07T16:29:19.401034Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+387,Miramar,2020-08-07T16:29:19.401034Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+388,Miramar,2020-08-07T16:29:19.401034Z,PlayerFemale_A_C,None,Damage_Groggy
+389,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+390,Miramar,2020-08-07T16:29:19.401034Z,WeapFNFal_C,HeadShot,Damage_Gun
+391,Miramar,2020-08-07T16:29:19.401034Z,WeapFNFal_C,ArmShot,Damage_Gun
+392,Miramar,2020-08-07T16:29:19.401034Z,WeapHK416_C,LegShot,Damage_Gun
+393,Miramar,2020-08-07T16:29:19.401034Z,WeapHK416_C,TorsoShot,Damage_Gun
+394,Miramar,2020-08-07T16:29:19.401034Z,WeapFNFal_C,LegShot,Damage_Gun
+395,Miramar,2020-08-07T16:29:19.401034Z,WeapHK416_C,TorsoShot,Damage_Gun
+396,Miramar,2020-08-07T16:29:19.401034Z,WeapHK416_C,LegShot,Damage_Gun
+397,Miramar,2020-08-07T16:29:19.401034Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+398,Miramar,2020-08-07T16:29:19.401034Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+399,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,PelvisShot,Damage_Gun
+400,Miramar,2020-08-07T16:29:19.401034Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Vehicle
+401,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,ArmShot,Damage_Gun
+402,Miramar,2020-08-07T16:29:19.401034Z,PlayerMale_A_C,None,Damage_Groggy
+403,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+404,Miramar,2020-08-07T16:29:19.401034Z,WeapHK416_C,TorsoShot,Damage_Gun
+405,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,ArmShot,Damage_Gun
+406,Miramar,2020-08-07T16:29:19.401034Z,PlayerMale_A_C,None,Damage_Groggy
+407,Miramar,2020-08-07T16:29:19.401034Z,WeapHK416_C,TorsoShot,Damage_Gun
+408,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,TorsoShot,Damage_Gun
+409,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,HeadShot,Damage_Gun
+410,Miramar,2020-08-07T16:29:19.401034Z,WeapHK416_C,TorsoShot,Damage_Gun
+411,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+412,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,TorsoShot,Damage_Gun
+413,Miramar,2020-08-07T16:29:19.401034Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+414,Miramar,2020-08-07T16:29:19.401034Z,WeapHK416_C,PelvisShot,Damage_Gun
+415,Miramar,2020-08-07T16:29:19.401034Z,PlayerFemale_A_C,None,Damage_Groggy
+416,Miramar,2020-08-07T16:29:19.401034Z,WeapHK416_C,ArmShot,Damage_Gun
+417,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,TorsoShot,Damage_Gun
+418,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,LegShot,Damage_Gun
+419,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+420,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+421,Miramar,2020-08-07T16:29:19.401034Z,PlayerMale_A_C,None,Damage_Groggy
+422,Miramar,2020-08-07T16:29:19.401034Z,PlayerMale_A_C,None,Damage_Groggy
+423,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,TorsoShot,Damage_Gun
+424,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,HeadShot,Damage_Gun
+425,Miramar,2020-08-07T16:29:19.401034Z,WeapMini14_C,ArmShot,Damage_Gun
+426,Miramar,2020-08-07T16:29:19.401034Z,WeapBerylM762_C,HeadShot,Damage_Gun
+427,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapMosinNagant_C,TorsoShot,Damage_Gun
+428,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapHK416_C,TorsoShot,Damage_Gun
+429,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,ArmShot,Damage_Gun
+430,Erangel (Remastered),2020-08-16T19:15:46.81975Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+431,Erangel (Remastered),2020-08-16T19:15:46.81975Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+432,Erangel (Remastered),2020-08-16T19:15:46.81975Z,Uaz_C_01_C,NonSpecific,Damage_VehicleHit
+433,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapFNFal_C,PelvisShot,Damage_Gun
+434,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+435,Erangel (Remastered),2020-08-16T19:15:46.81975Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+436,Erangel (Remastered),2020-08-16T19:15:46.81975Z,PlayerMale_A_C,None,Damage_Groggy
+437,Erangel (Remastered),2020-08-16T19:15:46.81975Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+438,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+439,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+440,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+441,Erangel (Remastered),2020-08-16T19:15:46.81975Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+442,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+443,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,LegShot,Damage_Gun
+444,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapMini14_C,HeadShot,Damage_Gun
+445,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+446,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapSKS_C,LegShot,Damage_Gun
+447,Erangel (Remastered),2020-08-16T19:15:46.81975Z,PlayerFemale_A_C,None,Damage_Groggy
+448,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapMini14_C,PelvisShot,Damage_Gun
+449,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapSKS_C,HeadShot,Damage_Gun
+450,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+451,Erangel (Remastered),2020-08-16T19:15:46.81975Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+452,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapAK47_C,TorsoShot,Damage_Gun
+453,Erangel (Remastered),2020-08-16T19:15:46.81975Z,PlayerFemale_A_C,None,Damage_Groggy
+454,Erangel (Remastered),2020-08-16T19:15:46.81975Z,PlayerMale_A_C,None,Damage_Groggy
+455,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+456,Erangel (Remastered),2020-08-16T19:15:46.81975Z,PlayerFemale_A_C,None,Damage_Groggy
+457,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+458,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapFNFal_C,TorsoShot,Damage_Gun
+459,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapMini14_C,TorsoShot,Damage_Gun
+460,Erangel (Remastered),2020-08-16T19:15:46.81975Z,PlayerFemale_A_C,None,Damage_Groggy
+461,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapHK416_C,HeadShot,Damage_Gun
+462,Erangel (Remastered),2020-08-16T19:15:46.81975Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+463,Erangel (Remastered),2020-08-16T19:15:46.81975Z,PlayerFemale_A_C,None,Damage_Groggy
+464,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,HeadShot,Damage_Gun
+465,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapHK416_C,TorsoShot,Damage_Gun
+466,Erangel (Remastered),2020-08-16T19:15:46.81975Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+467,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,HeadShot,Damage_Gun
+468,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapSKS_C,TorsoShot,Damage_Gun
+469,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapFNFal_C,TorsoShot,Damage_Gun
+470,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+471,Erangel (Remastered),2020-08-16T19:15:46.81975Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+472,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapFNFal_C,TorsoShot,Damage_Gun
+473,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapFNFal_C,ArmShot,Damage_Gun
+474,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapMini14_C,LegShot,Damage_Gun
+475,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapMini14_C,TorsoShot,Damage_Gun
+476,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapFNFal_C,TorsoShot,Damage_Gun
+477,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapM24_C,HeadShot,Damage_Gun
+478,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapFNFal_C,HeadShot,Damage_Gun
+479,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+480,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapMini14_C,ArmShot,Damage_Gun
+481,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapBerylM762_C,LegShot,Damage_Gun
+482,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapMini14_C,TorsoShot,Damage_Gun
+483,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapMini14_C,TorsoShot,Damage_Gun
+484,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapMini14_C,HeadShot,Damage_Gun
+485,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapMini14_C,HeadShot,Damage_Gun
+486,Erangel (Remastered),2020-08-16T19:15:46.81975Z,PlayerFemale_A_C,None,Damage_Groggy
+487,Erangel (Remastered),2020-08-16T19:15:46.81975Z,WeapFNFal_C,TorsoShot,Damage_Gun
+488,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapSKS_C,LegShot,Damage_Gun
+489,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapHK416_C,HeadShot,Damage_Gun
+490,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapAK47_C,HeadShot,Damage_Gun
+491,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapMini14_C,LegShot,Damage_Gun
+492,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapMini14_C,PelvisShot,Damage_Gun
+493,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapMini14_C,ArmShot,Damage_Gun
+494,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+495,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,HeadShot,Damage_Gun
+496,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapFNFal_C,ArmShot,Damage_Gun
+497,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapFNFal_C,PelvisShot,Damage_Gun
+498,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapHK416_C,ArmShot,Damage_Gun
+499,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapMini14_C,TorsoShot,Damage_Gun
+500,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapHK416_C,TorsoShot,Damage_Gun
+501,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapAK47_C,HeadShot,Damage_Gun
+502,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerMale_A_C,None,Damage_Groggy
+503,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+504,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+505,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapHK416_C,TorsoShot,Damage_Gun
+506,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,LegShot,Damage_Gun
+507,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapMini14_C,TorsoShot,Damage_Gun
+508,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapFNFal_C,TorsoShot,Damage_Gun
+509,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapFNFal_C,TorsoShot,Damage_Gun
+510,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+511,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+512,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+513,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+514,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+515,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+516,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,HeadShot,Damage_Gun
+517,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+518,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,ArmShot,Damage_Gun
+519,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+520,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,HeadShot,Damage_Gun
+521,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerMale_A_C,None,Damage_Groggy
+522,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+523,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+524,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapAUG_C,TorsoShot,Damage_Gun
+525,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,LegShot,Damage_Gun
+526,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerMale_A_C,None,Damage_Groggy
+527,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapAUG_C,HeadShot,Damage_Gun
+528,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapSKS_C,TorsoShot,Damage_Gun
+529,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+530,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+531,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+532,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,HeadShot,Damage_Gun
+533,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+534,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+535,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,HeadShot,Damage_Gun
+536,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+537,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapMini14_C,TorsoShot,Damage_Gun
+538,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerMale_A_C,None,Damage_Groggy
+539,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+540,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+541,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+542,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+543,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,HeadShot,Damage_Gun
+544,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,HeadShot,Damage_Gun
+545,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapBerylM762_C,HeadShot,Damage_Gun
+546,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,PlayerFemale_A_C,None,Damage_Groggy
+547,Erangel (Remastered),2020-08-16T17:55:28.1743493Z,WeapGroza_C,HeadShot,Damage_Gun
+548,Miramar,2020-08-16T15:49:52.6157683Z,PlayerFemale_A_C,None,Damage_Groggy
+549,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,HeadShot,Damage_Gun
+550,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,HeadShot,Damage_Gun
+551,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+552,Miramar,2020-08-16T15:49:52.6157683Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+553,Miramar,2020-08-16T15:49:52.6157683Z,WeapMini14_C,ArmShot,Damage_Gun
+554,Miramar,2020-08-16T15:49:52.6157683Z,WeapMini14_C,HeadShot,Damage_Gun
+555,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+556,Miramar,2020-08-16T15:49:52.6157683Z,PlayerFemale_A_C,None,Damage_Groggy
+557,Miramar,2020-08-16T15:49:52.6157683Z,PlayerFemale_A_C,None,Damage_Groggy
+558,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+559,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,HeadShot,Damage_Gun
+560,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+561,Miramar,2020-08-16T15:49:52.6157683Z,PlayerMale_A_C,None,Damage_Groggy
+562,Miramar,2020-08-16T15:49:52.6157683Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+563,Miramar,2020-08-16T15:49:52.6157683Z,WeapMini14_C,HeadShot,Damage_Gun
+564,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+565,Miramar,2020-08-16T15:49:52.6157683Z,WeapMini14_C,TorsoShot,Damage_Gun
+566,Miramar,2020-08-16T15:49:52.6157683Z,PlayerFemale_A_C,None,Damage_Groggy
+567,Miramar,2020-08-16T15:49:52.6157683Z,WeapAK47_C,HeadShot,Damage_Gun
+568,Miramar,2020-08-16T15:49:52.6157683Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+569,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+570,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+571,Miramar,2020-08-16T15:49:52.6157683Z,WeapHK416_C,HeadShot,Damage_Gun
+572,Miramar,2020-08-16T15:49:52.6157683Z,WeapMini14_C,PelvisShot,Damage_Gun
+573,Miramar,2020-08-16T15:49:52.6157683Z,WeapMini14_C,LegShot,Damage_Gun
+574,Miramar,2020-08-16T15:49:52.6157683Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+575,Miramar,2020-08-16T15:49:52.6157683Z,WeapHK416_C,TorsoShot,Damage_Gun
+576,Miramar,2020-08-16T15:49:52.6157683Z,PlayerMale_A_C,None,Damage_Groggy
+577,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+578,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,LegShot,Damage_Gun
+579,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,HeadShot,Damage_Gun
+580,Miramar,2020-08-16T15:49:52.6157683Z,PlayerFemale_A_C,None,Damage_Groggy
+581,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,HeadShot,Damage_Gun
+582,Miramar,2020-08-16T15:49:52.6157683Z,WeapAK47_C,TorsoShot,Damage_Gun
+583,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+584,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+585,Miramar,2020-08-16T15:49:52.6157683Z,WeapHK416_C,LegShot,Damage_Gun
+586,Miramar,2020-08-16T15:49:52.6157683Z,PlayerFemale_A_C,None,Damage_Groggy
+587,Miramar,2020-08-16T15:49:52.6157683Z,PlayerFemale_A_C,None,Damage_Groggy
+588,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+589,Miramar,2020-08-16T15:49:52.6157683Z,PlayerFemale_A_C,None,Damage_Groggy
+590,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+591,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,ArmShot,Damage_Gun
+592,Miramar,2020-08-16T15:49:52.6157683Z,WeapAK47_C,TorsoShot,Damage_Gun
+593,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+594,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,HeadShot,Damage_Gun
+595,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+596,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+597,Miramar,2020-08-16T15:49:52.6157683Z,PlayerFemale_A_C,None,Damage_Groggy
+598,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+599,Miramar,2020-08-16T15:49:52.6157683Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+600,Miramar,2020-08-16T15:49:52.6157683Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+601,Miramar,2020-08-16T15:49:52.6157683Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+602,Miramar,2020-08-16T15:49:52.6157683Z,WeapBerylM762_C,HeadShot,Damage_Gun
+603,Miramar,2020-08-16T15:49:52.6157683Z,PlayerMale_A_C,None,Damage_Groggy
+604,Miramar,2020-08-16T15:49:52.6157683Z,WeapAUG_C,TorsoShot,Damage_Gun
+605,Miramar,2020-08-16T15:49:52.6157683Z,WeapHK416_C,TorsoShot,Damage_Gun
+606,Miramar,2020-08-16T15:49:52.6157683Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+607,Miramar,2020-08-16T15:49:52.6157683Z,PlayerFemale_A_C,None,Damage_Groggy
+608,Miramar,2020-08-16T15:49:52.6157683Z,WeapAUG_C,HeadShot,Damage_Gun
+609,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapSKS_C,PelvisShot,Damage_Gun
+610,Erangel (Remastered),2020-08-15T18:02:38.324568Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+611,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapSKS_C,TorsoShot,Damage_Gun
+612,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+613,Erangel (Remastered),2020-08-15T18:02:38.324568Z,PlayerFemale_A_C,None,Damage_Groggy
+614,Erangel (Remastered),2020-08-15T18:02:38.324568Z,PlayerFemale_A_C,None,Damage_Groggy
+615,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,LegShot,Damage_Gun
+616,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+617,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+618,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,LegShot,Damage_Gun
+619,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,TorsoShot,Damage_Gun
+620,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapMini14_C,LegShot,Damage_Gun
+621,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,HeadShot,Damage_Gun
+622,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,PelvisShot,Damage_Gun
+623,Erangel (Remastered),2020-08-15T18:02:38.324568Z,PlayerFemale_A_C,None,Damage_Groggy
+624,Erangel (Remastered),2020-08-15T18:02:38.324568Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+625,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,TorsoShot,Damage_Gun
+626,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+627,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,TorsoShot,Damage_Gun
+628,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapBerylM762_C,HeadShot,Damage_Gun
+629,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,HeadShot,Damage_Gun
+630,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,HeadShot,Damage_Gun
+631,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,TorsoShot,Damage_Gun
+632,Erangel (Remastered),2020-08-15T18:02:38.324568Z,PlayerFemale_A_C,None,Damage_Groggy
+633,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapMini14_C,HeadShot,Damage_Gun
+634,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,TorsoShot,Damage_Gun
+635,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapMini14_C,HeadShot,Damage_Gun
+636,Erangel (Remastered),2020-08-15T18:02:38.324568Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+637,Erangel (Remastered),2020-08-15T18:02:38.324568Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+638,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapHK416_C,HeadShot,Damage_Gun
+639,Erangel (Remastered),2020-08-15T18:02:38.324568Z,PlayerMale_A_C,None,Damage_Groggy
+640,Erangel (Remastered),2020-08-15T18:02:38.324568Z,PlayerMale_A_C,None,Damage_Groggy
+641,Erangel (Remastered),2020-08-15T18:02:38.324568Z,PlayerFemale_A_C,None,Damage_Groggy
+642,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapHK416_C,TorsoShot,Damage_Gun
+643,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapHK416_C,HeadShot,Damage_Gun
+644,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,PelvisShot,Damage_Gun
+645,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,LegShot,Damage_Gun
+646,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapSKS_C,TorsoShot,Damage_Gun
+647,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapMini14_C,TorsoShot,Damage_Gun
+648,Erangel (Remastered),2020-08-15T18:02:38.324568Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+649,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,TorsoShot,Damage_Gun
+650,Erangel (Remastered),2020-08-15T18:02:38.324568Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+651,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,HeadShot,Damage_Gun
+652,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,HeadShot,Damage_Gun
+653,Erangel (Remastered),2020-08-15T18:02:38.324568Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+654,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapSKS_C,LegShot,Damage_Gun
+655,Erangel (Remastered),2020-08-15T18:02:38.324568Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+656,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapSKS_C,TorsoShot,Damage_Gun
+657,Erangel (Remastered),2020-08-15T18:02:38.324568Z,PlayerMale_A_C,None,Damage_Groggy
+658,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapSKS_C,HeadShot,Damage_Gun
+659,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,TorsoShot,Damage_Gun
+660,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapMini14_C,LegShot,Damage_Gun
+661,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,TorsoShot,Damage_Gun
+662,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapBerylM762_C,LegShot,Damage_Gun
+663,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,LegShot,Damage_Gun
+664,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapHK416_C,TorsoShot,Damage_Gun
+665,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,ArmShot,Damage_Gun
+666,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,HeadShot,Damage_Gun
+667,Erangel (Remastered),2020-08-15T18:02:38.324568Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+668,Erangel (Remastered),2020-08-15T18:02:38.324568Z,WeapFNFal_C,LegShot,Damage_Gun
+669,Miramar,2020-08-15T16:29:59.3672321Z,WeapSCAR-L_C,HeadShot,Damage_Gun
+670,Miramar,2020-08-15T16:29:59.3672321Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+671,Miramar,2020-08-15T16:29:59.3672321Z,WeapHK416_C,PelvisShot,Damage_Gun
+672,Miramar,2020-08-15T16:29:59.3672321Z,WeapFNFal_C,LegShot,Damage_Gun
+673,Miramar,2020-08-15T16:29:59.3672321Z,WeapFNFal_C,LegShot,Damage_Gun
+674,Miramar,2020-08-15T16:29:59.3672321Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+675,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+676,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+677,Miramar,2020-08-15T16:29:59.3672321Z,WeapFNFal_C,PelvisShot,Damage_Gun
+678,Miramar,2020-08-15T16:29:59.3672321Z,WeapFNFal_C,LegShot,Damage_Gun
+679,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+680,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+681,Miramar,2020-08-15T16:29:59.3672321Z,WeapSKS_C,PelvisShot,Damage_Gun
+682,Miramar,2020-08-15T16:29:59.3672321Z,PlayerFemale_A_C,None,Damage_Groggy
+683,Miramar,2020-08-15T16:29:59.3672321Z,WeapMini14_C,TorsoShot,Damage_Gun
+684,Miramar,2020-08-15T16:29:59.3672321Z,WeapFNFal_C,TorsoShot,Damage_Gun
+685,Miramar,2020-08-15T16:29:59.3672321Z,WeapFNFal_C,PelvisShot,Damage_Gun
+686,Miramar,2020-08-15T16:29:59.3672321Z,WeapMini14_C,HeadShot,Damage_Gun
+687,Miramar,2020-08-15T16:29:59.3672321Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+688,Miramar,2020-08-15T16:29:59.3672321Z,WeapFNFal_C,TorsoShot,Damage_Gun
+689,Miramar,2020-08-15T16:29:59.3672321Z,PlayerFemale_A_C,None,Damage_Groggy
+690,Miramar,2020-08-15T16:29:59.3672321Z,PlayerMale_A_C,None,Damage_Groggy
+691,Miramar,2020-08-15T16:29:59.3672321Z,PlayerMale_A_C,None,Damage_Groggy
+692,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,HeadShot,Damage_Gun
+693,Miramar,2020-08-15T16:29:59.3672321Z,WeapFNFal_C,TorsoShot,Damage_Gun
+694,Miramar,2020-08-15T16:29:59.3672321Z,WeapFNFal_C,TorsoShot,Damage_Gun
+695,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+696,Miramar,2020-08-15T16:29:59.3672321Z,WeapHK416_C,PelvisShot,Damage_Gun
+697,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+698,Miramar,2020-08-15T16:29:59.3672321Z,WeapMini14_C,LegShot,Damage_Gun
+699,Miramar,2020-08-15T16:29:59.3672321Z,WeapFNFal_C,HeadShot,Damage_Gun
+700,Miramar,2020-08-15T16:29:59.3672321Z,WeapMini14_C,LegShot,Damage_Gun
+701,Miramar,2020-08-15T16:29:59.3672321Z,WeapMini14_C,HeadShot,Damage_Gun
+702,Miramar,2020-08-15T16:29:59.3672321Z,WeapSKS_C,LegShot,Damage_Gun
+703,Miramar,2020-08-15T16:29:59.3672321Z,PlayerFemale_A_C,None,Damage_Groggy
+704,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+705,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+706,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+707,Miramar,2020-08-15T16:29:59.3672321Z,PlayerMale_A_C,None,Damage_Groggy
+708,Miramar,2020-08-15T16:29:59.3672321Z,WeapHK416_C,LegShot,Damage_Gun
+709,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,HeadShot,Damage_Gun
+710,Miramar,2020-08-15T16:29:59.3672321Z,WeapFNFal_C,TorsoShot,Damage_Gun
+711,Miramar,2020-08-15T16:29:59.3672321Z,PlayerFemale_A_C,None,Damage_Groggy
+712,Miramar,2020-08-15T16:29:59.3672321Z,WeapHK416_C,HeadShot,Damage_Gun
+713,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+714,Miramar,2020-08-15T16:29:59.3672321Z,WeapMini14_C,HeadShot,Damage_Gun
+715,Miramar,2020-08-15T16:29:59.3672321Z,PlayerFemale_A_C,None,Damage_Groggy
+716,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+717,Miramar,2020-08-15T16:29:59.3672321Z,WeapMini14_C,TorsoShot,Damage_Gun
+718,Miramar,2020-08-15T16:29:59.3672321Z,WeapSKS_C,PelvisShot,Damage_Gun
+719,Miramar,2020-08-15T16:29:59.3672321Z,WeapSKS_C,TorsoShot,Damage_Gun
+720,Miramar,2020-08-15T16:29:59.3672321Z,WeapSKS_C,TorsoShot,Damage_Gun
+721,Miramar,2020-08-15T16:29:59.3672321Z,WeapAUG_C,TorsoShot,Damage_Gun
+722,Miramar,2020-08-15T16:29:59.3672321Z,WeapHK416_C,TorsoShot,Damage_Gun
+723,Miramar,2020-08-15T16:29:59.3672321Z,WeapMini14_C,LegShot,Damage_Gun
+724,Miramar,2020-08-15T16:29:59.3672321Z,WeapAUG_C,LegShot,Damage_Gun
+725,Miramar,2020-08-15T16:29:59.3672321Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+726,Miramar,2020-08-15T16:29:59.3672321Z,PlayerMale_A_C,None,Damage_Groggy
+727,Miramar,2020-08-15T16:29:59.3672321Z,PlayerFemale_A_C,None,Damage_Groggy
+728,Miramar,2020-08-15T16:29:59.3672321Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+729,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,HeadShot,Damage_Punch
+730,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,HeadShot,Damage_Punch
+731,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapThompson_C,ArmShot,Damage_Gun
+732,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapSKS_C,HeadShot,Damage_Gun
+733,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapVector_C,TorsoShot,Damage_Gun
+734,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+735,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+736,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapFNFal_C,TorsoShot,Damage_Gun
+737,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapPanProjectile_C,HeadShot,Damage_MeleeThrow
+738,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapBerylM762_C,HeadShot,Damage_Gun
+739,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapSCAR-L_C,HeadShot,Damage_Gun
+740,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapFNFal_C,TorsoShot,Damage_Gun
+741,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapBerylM762_C,HeadShot,Damage_Gun
+742,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+743,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+744,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+745,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+746,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapBerylM762_C,HeadShot,Damage_Gun
+747,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapAK47_C,PelvisShot,Damage_Gun
+748,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+749,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+750,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+751,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapFNFal_C,HeadShot,Damage_Gun
+752,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapSKS_C,TorsoShot,Damage_Gun
+753,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapBerylM762_C,HeadShot,Damage_Gun
+754,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+755,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+756,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+757,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+758,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+759,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapFNFal_C,LegShot,Damage_Gun
+760,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+761,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+762,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerMale_A_C,None,Damage_Groggy
+763,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapFNFal_C,HeadShot,Damage_Gun
+764,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapFNFal_C,PelvisShot,Damage_Gun
+765,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapMini14_C,TorsoShot,Damage_Gun
+766,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+767,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+768,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapBerylM762_C,HeadShot,Damage_Gun
+769,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+770,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+771,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+772,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapSCAR-L_C,ArmShot,Damage_Gun
+773,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapMini14_C,ArmShot,Damage_Gun
+774,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+775,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+776,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+777,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapMini14_C,ArmShot,Damage_Gun
+778,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapMini14_C,PelvisShot,Damage_Gun
+779,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapMini14_C,TorsoShot,Damage_Gun
+780,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapFNFal_C,TorsoShot,Damage_Gun
+781,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerFemale_A_C,None,Damage_Groggy
+782,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapSKS_C,TorsoShot,Damage_Gun
+783,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapSKS_C,LegShot,Damage_Gun
+784,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapSKS_C,TorsoShot,Damage_Gun
+785,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,WeapHK416_C,LegShot,Damage_Gun
+786,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+787,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,PlayerMale_A_C,None,Damage_Groggy
+788,Erangel (Remastered),2020-08-08T17:52:24.2020419Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+789,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapHK416_C,LegShot,Damage_Gun
+790,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,HeadShot,Damage_Gun
+791,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,HeadShot,Damage_Gun
+792,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+793,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,TorsoShot,Damage_Gun
+794,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapHK416_C,PelvisShot,Damage_Gun
+795,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,TorsoShot,Damage_Gun
+796,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,HeadShot,Damage_Gun
+797,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapHK416_C,TorsoShot,Damage_Gun
+798,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+799,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+800,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+801,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+802,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapBerylM762_C,HeadShot,Damage_Gun
+803,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+804,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapHK416_C,TorsoShot,Damage_Gun
+805,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+806,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,TorsoShot,Damage_Gun
+807,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+808,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+809,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+810,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+811,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapMini14_C,LegShot,Damage_Gun
+812,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,LegShot,Damage_Gun
+813,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+814,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapBerylM762_C,HeadShot,Damage_Gun
+815,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,PelvisShot,Damage_Gun
+816,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,HeadShot,Damage_Gun
+817,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapSKS_C,HeadShot,Damage_Gun
+818,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+819,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapSKS_C,TorsoShot,Damage_Gun
+820,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+821,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapBerylM762_C,LegShot,Damage_Gun
+822,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,HeadShot,Damage_Gun
+823,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+824,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapHK416_C,TorsoShot,Damage_Gun
+825,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,LegShot,Damage_Gun
+826,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,HeadShot,Damage_Gun
+827,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+828,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+829,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,HeadShot,Damage_Gun
+830,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerMale_A_C,None,Damage_Groggy
+831,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapMini14_C,HeadShot,Damage_Gun
+832,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+833,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerMale_A_C,None,Damage_Groggy
+834,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+835,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+836,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,TorsoShot,Damage_Gun
+837,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+838,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapMini14_C,TorsoShot,Damage_Gun
+839,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerFemale_A_C,None,Damage_Groggy
+840,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapBerylM762_C,HeadShot,Damage_Gun
+841,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapMini14_C,HeadShot,Damage_Gun
+842,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,LegShot,Damage_Gun
+843,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,PelvisShot,Damage_Gun
+844,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapBerylM762_C,LegShot,Damage_Gun
+845,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,TorsoShot,Damage_Gun
+846,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapFNFal_C,TorsoShot,Damage_Gun
+847,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,PlayerMale_A_C,None,Damage_Groggy
+848,Erangel (Remastered),2020-08-07T17:53:49.4429562Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+849,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,TorsoShot,Damage_Gun
+850,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+851,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,LegShot,Damage_Gun
+852,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,ArmShot,Damage_Gun
+853,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,LegShot,Damage_Gun
+854,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,PelvisShot,Damage_Gun
+855,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,HeadShot,Damage_Gun
+856,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,HeadShot,Damage_Gun
+857,Miramar,2020-08-07T15:49:52.373845Z,PlayerFemale_A_C,None,Damage_Groggy
+858,Miramar,2020-08-07T15:49:52.373845Z,PlayerFemale_A_C,None,Damage_Groggy
+859,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+860,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+861,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+862,Miramar,2020-08-07T15:49:52.373845Z,PlayerMale_A_C,None,Damage_Groggy
+863,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,HeadShot,Damage_Gun
+864,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,TorsoShot,Damage_Gun
+865,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,PelvisShot,Damage_Gun
+866,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,TorsoShot,Damage_Gun
+867,Miramar,2020-08-07T15:49:52.373845Z,PlayerFemale_A_C,None,Damage_Groggy
+868,Miramar,2020-08-07T15:49:52.373845Z,PlayerFemale_A_C,None,Damage_Groggy
+869,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+870,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,TorsoShot,Damage_Gun
+871,Miramar,2020-08-07T15:49:52.373845Z,WeapSKS_C,PelvisShot,Damage_Gun
+872,Miramar,2020-08-07T15:49:52.373845Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+873,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+874,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,HeadShot,Damage_Gun
+875,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,HeadShot,Damage_Gun
+876,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,TorsoShot,Damage_Gun
+877,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,LegShot,Damage_Gun
+878,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,ArmShot,Damage_Gun
+879,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,HeadShot,Damage_Gun
+880,Miramar,2020-08-07T15:49:52.373845Z,PlayerFemale_A_C,None,Damage_Groggy
+881,Miramar,2020-08-07T15:49:52.373845Z,PlayerFemale_A_C,None,Damage_Groggy
+882,Miramar,2020-08-07T15:49:52.373845Z,BP_PickupTruck_A_01_C,NonSpecific,Damage_VehicleHit
+883,Miramar,2020-08-07T15:49:52.373845Z,PlayerFemale_A_C,None,Damage_Groggy
+884,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,TorsoShot,Damage_Gun
+885,Miramar,2020-08-07T15:49:52.373845Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+886,Miramar,2020-08-07T15:49:52.373845Z,PlayerMale_A_C,None,Damage_Groggy
+887,Miramar,2020-08-07T15:49:52.373845Z,WeapFNFal_C,TorsoShot,Damage_Gun
+888,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,TorsoShot,Damage_Gun
+889,Miramar,2020-08-07T15:49:52.373845Z,WeapFNFal_C,HeadShot,Damage_Gun
+890,Miramar,2020-08-07T15:49:52.373845Z,WeapFNFal_C,TorsoShot,Damage_Gun
+891,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,ArmShot,Damage_Gun
+892,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,TorsoShot,Damage_Gun
+893,Miramar,2020-08-07T15:49:52.373845Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+894,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,PelvisShot,Damage_Gun
+895,Miramar,2020-08-07T15:49:52.373845Z,PlayerMale_A_C,None,Damage_Groggy
+896,Miramar,2020-08-07T15:49:52.373845Z,WeapBerylM762_C,LegShot,Damage_Gun
+897,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,TorsoShot,Damage_Gun
+898,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,TorsoShot,Damage_Gun
+899,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,LegShot,Damage_Gun
+900,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,TorsoShot,Damage_Gun
+901,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,TorsoShot,Damage_Gun
+902,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,LegShot,Damage_Gun
+903,Miramar,2020-08-07T15:49:52.373845Z,WeapAK47_C,TorsoShot,Damage_Gun
+904,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,HeadShot,Damage_Gun
+905,Miramar,2020-08-07T15:49:52.373845Z,WeapMini14_C,HeadShot,Damage_Gun
+906,Miramar,2020-08-07T15:49:52.373845Z,PlayerFemale_A_C,None,Damage_Groggy
+907,Miramar,2020-08-07T15:49:52.373845Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+908,Miramar,2020-08-07T15:49:52.373845Z,WeapHK416_C,TorsoShot,Damage_Gun
+909,Miramar,2020-08-07T15:49:52.373845Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+910,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,LegShot,Damage_Gun
+911,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+912,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapFNFal_C,LegShot,Damage_Gun
+913,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+914,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapMini14_C,PelvisShot,Damage_Gun
+915,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+916,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,HeadShot,Damage_Gun
+917,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,LegShot,Damage_Gun
+918,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerFemale_A_C,None,Damage_Groggy
+919,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerMale_A_C,None,Damage_Groggy
+920,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+921,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapFNFal_C,TorsoShot,Damage_Gun
+922,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapKar98k_C,PelvisShot,Damage_Gun
+923,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerFemale_A_C,None,Damage_Groggy
+924,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerFemale_A_C,None,Damage_Groggy
+925,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapFNFal_C,TorsoShot,Damage_Gun
+926,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapHK416_C,PelvisShot,Damage_Gun
+927,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+928,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapSKS_C,PelvisShot,Damage_Gun
+929,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,HeadShot,Damage_Gun
+930,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerFemale_A_C,None,Damage_Groggy
+931,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerFemale_A_C,None,Damage_Groggy
+932,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,LegShot,Damage_Gun
+933,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+934,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapFNFal_C,TorsoShot,Damage_Gun
+935,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerMale_A_C,None,Damage_Groggy
+936,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+937,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,ArmShot,Damage_Gun
+938,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapFNFal_C,TorsoShot,Damage_Gun
+939,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerFemale_A_C,None,Damage_Groggy
+940,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,HeadShot,Damage_Gun
+941,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapMini14_C,PelvisShot,Damage_Gun
+942,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapFNFal_C,TorsoShot,Damage_Gun
+943,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerMale_A_C,None,Damage_Groggy
+944,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+945,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapFNFal_C,TorsoShot,Damage_Gun
+946,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+947,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,HeadShot,Damage_Gun
+948,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapHK416_C,TorsoShot,Damage_Gun
+949,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,HeadShot,Damage_Gun
+950,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerFemale_A_C,None,Damage_Groggy
+951,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerMale_A_C,None,Damage_Groggy
+952,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+953,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,ArmShot,Damage_Gun
+954,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+955,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapMini14_C,TorsoShot,Damage_Gun
+956,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+957,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+958,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,LegShot,Damage_Gun
+959,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapMini14_C,LegShot,Damage_Gun
+960,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+961,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapFNFal_C,TorsoShot,Damage_Gun
+962,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerFemale_A_C,None,Damage_Groggy
+963,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerFemale_A_C,None,Damage_Groggy
+964,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,PlayerMale_A_C,None,Damage_Groggy
+965,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+966,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+967,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapDP28_C,TorsoShot,Damage_Gun
+968,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+969,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,HeadShot,Damage_Gun
+970,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+971,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+972,Erangel (Remastered),2020-08-15T19:21:00.0737044Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+973,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapHK416_C,TorsoShot,Damage_Gun
+974,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+975,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapMini14_C,PelvisShot,Damage_Gun
+976,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+977,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapHK416_C,PelvisShot,Damage_Gun
+978,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,TorsoShot,Damage_Gun
+979,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapHK416_C,TorsoShot,Damage_Gun
+980,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,HeadShot,Damage_Gun
+981,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,TorsoShot,Damage_Gun
+982,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,ArmShot,Damage_Gun
+983,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,PelvisShot,Damage_Gun
+984,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapHK416_C,TorsoShot,Damage_Gun
+985,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapHK416_C,PelvisShot,Damage_Gun
+986,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,PlayerFemale_A_C,None,Damage_Groggy
+987,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+988,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,LegShot,Damage_Gun
+989,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,HeadShot,Damage_Gun
+990,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,LegShot,Damage_Gun
+991,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapMini14_C,TorsoShot,Damage_Gun
+992,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapMini14_C,TorsoShot,Damage_Gun
+993,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,TorsoShot,Damage_Gun
+994,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+995,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,TorsoShot,Damage_Gun
+996,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapMini14_C,PelvisShot,Damage_Gun
+997,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+998,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,HeadShot,Damage_Gun
+999,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,Dacia_A_03_v2_Esports_C,NonSpecific,Damage_VehicleHit
+1000,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1001,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1002,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,LegShot,Damage_Gun
+1003,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,PlayerMale_A_C,None,Damage_Groggy
+1004,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,PlayerFemale_A_C,None,Damage_Groggy
+1005,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapMini14_C,TorsoShot,Damage_Gun
+1006,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,PlayerFemale_A_C,None,Damage_Groggy
+1007,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1008,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,PlayerFemale_A_C,None,Damage_Groggy
+1009,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1010,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1011,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,LegShot,Damage_Gun
+1012,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1013,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,PlayerFemale_A_C,None,Damage_Groggy
+1014,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1015,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1016,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1017,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,PlayerMale_A_C,None,Damage_Groggy
+1018,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1019,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1020,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+1021,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1022,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,LegShot,Damage_Gun
+1023,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1024,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,ArmShot,Damage_Gun
+1025,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,HeadShot,Damage_Gun
+1026,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1027,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,PlayerMale_A_C,None,Damage_Groggy
+1028,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,PlayerFemale_A_C,None,Damage_Groggy
+1029,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1030,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1031,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,PlayerMale_A_C,None,Damage_Groggy
+1032,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,PlayerFemale_A_C,None,Damage_Groggy
+1033,Erangel (Remastered),2020-08-14T19:16:46.1180316Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1034,Miramar,2020-08-09T16:33:55.6718346Z,WeapMini14_C,HeadShot,Damage_Gun
+1035,Miramar,2020-08-09T16:33:55.6718346Z,WeapMini14_C,HeadShot,Damage_Gun
+1036,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1037,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,LegShot,Damage_Gun
+1038,Miramar,2020-08-09T16:33:55.6718346Z,WeapMini14_C,TorsoShot,Damage_Gun
+1039,Miramar,2020-08-09T16:33:55.6718346Z,WeapMini14_C,ArmShot,Damage_Gun
+1040,Miramar,2020-08-09T16:33:55.6718346Z,WeapMini14_C,TorsoShot,Damage_Gun
+1041,Miramar,2020-08-09T16:33:55.6718346Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1042,Miramar,2020-08-09T16:33:55.6718346Z,WeapFNFal_C,ArmShot,Damage_Gun
+1043,Miramar,2020-08-09T16:33:55.6718346Z,WeapHK416_C,PelvisShot,Damage_Gun
+1044,Miramar,2020-08-09T16:33:55.6718346Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1045,Miramar,2020-08-09T16:33:55.6718346Z,WeapMini14_C,TorsoShot,Damage_Gun
+1046,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1047,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1048,Miramar,2020-08-09T16:33:55.6718346Z,WeapSKS_C,PelvisShot,Damage_Gun
+1049,Miramar,2020-08-09T16:33:55.6718346Z,WeapSKS_C,LegShot,Damage_Gun
+1050,Miramar,2020-08-09T16:33:55.6718346Z,WeapMini14_C,LegShot,Damage_Gun
+1051,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1052,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1053,Miramar,2020-08-09T16:33:55.6718346Z,PlayerFemale_A_C,None,Damage_Groggy
+1054,Miramar,2020-08-09T16:33:55.6718346Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1055,Miramar,2020-08-09T16:33:55.6718346Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Vehicle
+1056,Miramar,2020-08-09T16:33:55.6718346Z,WeapMini14_C,TorsoShot,Damage_Gun
+1057,Miramar,2020-08-09T16:33:55.6718346Z,WeapMk14_C,TorsoShot,Damage_Gun
+1058,Miramar,2020-08-09T16:33:55.6718346Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1059,Miramar,2020-08-09T16:33:55.6718346Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1060,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1061,Miramar,2020-08-09T16:33:55.6718346Z,WeapAK47_C,PelvisShot,Damage_Gun
+1062,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1063,Miramar,2020-08-09T16:33:55.6718346Z,WeapSKS_C,PelvisShot,Damage_Gun
+1064,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1065,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1066,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1067,Miramar,2020-08-09T16:33:55.6718346Z,WeapHK416_C,TorsoShot,Damage_Gun
+1068,Miramar,2020-08-09T16:33:55.6718346Z,WeapMini14_C,PelvisShot,Damage_Gun
+1069,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1070,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1071,Miramar,2020-08-09T16:33:55.6718346Z,WeapHK416_C,HeadShot,Damage_Gun
+1072,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1073,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1074,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1075,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1076,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1077,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1078,Miramar,2020-08-09T16:33:55.6718346Z,WeapHK416_C,HeadShot,Damage_Gun
+1079,Miramar,2020-08-09T16:33:55.6718346Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+1080,Miramar,2020-08-09T16:33:55.6718346Z,PlayerFemale_A_C,None,Damage_Groggy
+1081,Miramar,2020-08-09T16:33:55.6718346Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1082,Miramar,2020-08-09T16:33:55.6718346Z,WeapSCAR-L_C,HeadShot,Damage_Gun
+1083,Miramar,2020-08-09T16:33:55.6718346Z,WeapFNFal_C,HeadShot,Damage_Gun
+1084,Miramar,2020-08-09T16:33:55.6718346Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1085,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1086,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1087,Miramar,2020-08-09T16:33:55.6718346Z,WeapHK416_C,HeadShot,Damage_Gun
+1088,Miramar,2020-08-09T16:33:55.6718346Z,WeapFNFal_C,ArmShot,Damage_Gun
+1089,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1090,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1091,Miramar,2020-08-09T16:33:55.6718346Z,WeapHK416_C,PelvisShot,Damage_Gun
+1092,Miramar,2020-08-09T16:33:55.6718346Z,WeapMini14_C,TorsoShot,Damage_Gun
+1093,Miramar,2020-08-09T16:33:55.6718346Z,PlayerFemale_A_C,None,Damage_Groggy
+1094,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1095,Miramar,2020-08-09T16:33:55.6718346Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1096,Erangel (Remastered),2020-08-08T14:51:36.5699507Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1097,Erangel (Remastered),2020-08-08T14:51:36.5699507Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1098,Erangel (Remastered),2020-08-08T14:51:36.5699507Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1099,Erangel (Remastered),2020-08-08T14:51:36.5699507Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1100,Erangel (Remastered),2020-08-08T14:51:36.5699507Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1101,Erangel (Remastered),2020-08-08T14:51:36.5699507Z,PlayerMale_A_C,NonSpecific,Damage_Instant_Fall
+1102,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1103,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1104,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapHK416_C,HeadShot,Damage_Gun
+1105,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1106,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapM16A4_C,HeadShot,Damage_Gun
+1107,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1108,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1109,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1110,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerFemale_A_C,None,Damage_Groggy
+1111,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,LegShot,Damage_Gun
+1112,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1113,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1114,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerFemale_A_C,None,Damage_Groggy
+1115,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1116,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapMini14_C,HeadShot,Damage_Gun
+1117,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1118,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapMini14_C,ArmShot,Damage_Gun
+1119,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerFemale_A_C,None,Damage_Groggy
+1120,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1121,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1122,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1123,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1124,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapMini14_C,HeadShot,Damage_Gun
+1125,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1126,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1127,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerFemale_A_C,None,Damage_Groggy
+1128,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerMale_A_C,None,Damage_Groggy
+1129,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1130,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapMini14_C,TorsoShot,Damage_Gun
+1131,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1132,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapM24_C,HeadShot,Damage_Gun
+1133,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1134,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1135,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapMini14_C,TorsoShot,Damage_Gun
+1136,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapHK416_C,LegShot,Damage_Gun
+1137,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+1138,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1139,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1140,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1141,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1142,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1143,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapMini14_C,HeadShot,Damage_Gun
+1144,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapSKS_C,TorsoShot,Damage_Gun
+1145,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerMale_A_C,None,Damage_Groggy
+1146,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerFemale_A_C,None,Damage_Groggy
+1147,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1148,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1149,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1150,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,HeadShot,Damage_Gun
+1151,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1152,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+1153,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerFemale_A_C,None,Damage_Groggy
+1154,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1155,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+1156,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerFemale_A_C,None,Damage_Groggy
+1157,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerFemale_A_C,None,Damage_Groggy
+1158,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerFemale_A_C,None,Damage_Groggy
+1159,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1160,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,PlayerMale_A_C,None,Damage_Groggy
+1161,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapFNFal_C,HeadShot,Damage_Gun
+1162,Erangel (Remastered),2020-08-16T18:36:40.7883513Z,WeapSKS_C,HeadShot,Damage_Gun
+1163,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerreta686_C,TorsoShot,Damage_Gun
+1164,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerFemale_A_C,None,Damage_Groggy
+1165,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapVector_C,HeadShot,Damage_Gun
+1166,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapM16A4_C,TorsoShot,Damage_Gun
+1167,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerFemale_A_C,None,Damage_Groggy
+1168,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapDP28_C,LegShot,Damage_Gun
+1169,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1170,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapMini14_C,ArmShot,Damage_Gun
+1171,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapHK416_C,TorsoShot,Damage_Gun
+1172,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapHK416_C,HeadShot,Damage_Gun
+1173,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1174,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1175,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1176,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1177,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapHK416_C,TorsoShot,Damage_Gun
+1178,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerFemale_A_C,None,Damage_Groggy
+1179,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapHK416_C,ArmShot,Damage_Gun
+1180,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1181,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerMale_A_C,None,Damage_Groggy
+1182,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerFemale_A_C,None,Damage_Groggy
+1183,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerFemale_A_C,None,Damage_Groggy
+1184,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1185,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapMini14_C,TorsoShot,Damage_Gun
+1186,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapMini14_C,TorsoShot,Damage_Gun
+1187,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1188,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1189,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapMini14_C,HeadShot,Damage_Gun
+1190,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1191,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapMini14_C,HeadShot,Damage_Gun
+1192,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,HeadShot,Damage_Gun
+1193,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerMale_A_C,None,Damage_Groggy
+1194,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1195,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+1196,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1197,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1198,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1199,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerFemale_A_C,None,Damage_Groggy
+1200,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1201,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerFemale_A_C,None,Damage_Groggy
+1202,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1203,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,HeadShot,Damage_Gun
+1204,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,HeadShot,Damage_Gun
+1205,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1206,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapHK416_C,HeadShot,Damage_Gun
+1207,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1208,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+1209,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapMini14_C,TorsoShot,Damage_Gun
+1210,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1211,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerFemale_A_C,None,Damage_Groggy
+1212,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerFemale_A_C,None,Damage_Groggy
+1213,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapM249_C,PelvisShot,Damage_Gun
+1214,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapHK416_C,PelvisShot,Damage_Gun
+1215,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,HeadShot,Damage_Gun
+1216,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1217,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapMini14_C,HeadShot,Damage_Gun
+1218,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1219,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1220,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,PlayerFemale_A_C,None,Damage_Groggy
+1221,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapFNFal_C,HeadShot,Damage_Gun
+1222,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapMini14_C,HeadShot,Damage_Gun
+1223,Erangel (Remastered),2020-08-09T18:38:37.1249448Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1224,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,Uaz_B_01_esports_C,NonSpecific,Damage_VehicleHit
+1225,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapM16A4_C,HeadShot,Damage_Gun
+1226,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerreta686_C,HeadShot,Damage_Gun
+1227,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,PlayerMale_A_C,None,Damage_Groggy
+1228,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapM16A4_C,TorsoShot,Damage_Gun
+1229,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,LegShot,Damage_Gun
+1230,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapHK416_C,TorsoShot,Damage_Gun
+1231,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1232,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1233,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1234,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1235,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1236,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapMini14_C,PelvisShot,Damage_Gun
+1237,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1238,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+1239,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1240,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1241,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,PlayerFemale_A_C,None,Damage_Groggy
+1242,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1243,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1244,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1245,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1246,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1247,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1248,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapHK416_C,HeadShot,Damage_Gun
+1249,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapHK416_C,TorsoShot,Damage_Gun
+1250,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1251,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,ArmShot,Damage_Gun
+1252,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1253,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapMini14_C,HeadShot,Damage_Gun
+1254,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapMini14_C,PelvisShot,Damage_Gun
+1255,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,PlayerFemale_A_C,None,Damage_Groggy
+1256,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapMini14_C,HeadShot,Damage_Gun
+1257,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,PlayerFemale_A_C,None,Damage_Groggy
+1258,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1259,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,PlayerFemale_A_C,None,Damage_Groggy
+1260,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1261,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,HeadShot,Damage_Gun
+1262,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1263,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1264,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,ArmShot,Damage_Gun
+1265,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1266,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapMini14_C,TorsoShot,Damage_Gun
+1267,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,PlayerFemale_A_C,None,Damage_Groggy
+1268,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1269,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,HeadShot,Damage_Gun
+1270,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1271,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,PlayerFemale_A_C,None,Damage_Groggy
+1272,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1273,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1274,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1275,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapHK416_C,TorsoShot,Damage_Gun
+1276,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1277,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,PlayerFemale_A_C,None,Damage_Groggy
+1278,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1279,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,PlayerFemale_A_C,None,Damage_Groggy
+1280,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,PlayerFemale_A_C,None,Damage_Groggy
+1281,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1282,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1283,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,PlayerFemale_A_C,None,Damage_Groggy
+1284,Erangel (Remastered),2020-08-08T19:12:57.4627046Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1285,Miramar,2020-08-16T16:29:36.6004457Z,WeapFNFal_C,HeadShot,Damage_Gun
+1286,Miramar,2020-08-16T16:29:36.6004457Z,WeapSKS_C,PelvisShot,Damage_Gun
+1287,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,TorsoShot,Damage_Gun
+1288,Miramar,2020-08-16T16:29:36.6004457Z,PlayerFemale_A_C,NonSpecific,Damage_Instant_Fall
+1289,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,LegShot,Damage_Gun
+1290,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,TorsoShot,Damage_Gun
+1291,Miramar,2020-08-16T16:29:36.6004457Z,WeapAK47_C,TorsoShot,Damage_Gun
+1292,Miramar,2020-08-16T16:29:36.6004457Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1293,Miramar,2020-08-16T16:29:36.6004457Z,WeapFNFal_C,LegShot,Damage_Gun
+1294,Miramar,2020-08-16T16:29:36.6004457Z,WeapHK416_C,TorsoShot,Damage_Gun
+1295,Miramar,2020-08-16T16:29:36.6004457Z,WeapHK416_C,TorsoShot,Damage_Gun
+1296,Miramar,2020-08-16T16:29:36.6004457Z,WeapHK416_C,TorsoShot,Damage_Gun
+1297,Miramar,2020-08-16T16:29:36.6004457Z,WeapHK416_C,TorsoShot,Damage_Gun
+1298,Miramar,2020-08-16T16:29:36.6004457Z,PlayerFemale_A_C,None,Damage_Groggy
+1299,Miramar,2020-08-16T16:29:36.6004457Z,WeapHK416_C,TorsoShot,Damage_Gun
+1300,Miramar,2020-08-16T16:29:36.6004457Z,PlayerFemale_A_C,None,Damage_Groggy
+1301,Miramar,2020-08-16T16:29:36.6004457Z,WeapHK416_C,TorsoShot,Damage_Gun
+1302,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,HeadShot,Damage_Gun
+1303,Miramar,2020-08-16T16:29:36.6004457Z,WeapSCAR-L_C,HeadShot,Damage_Gun
+1304,Miramar,2020-08-16T16:29:36.6004457Z,WeapFNFal_C,LegShot,Damage_Gun
+1305,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,LegShot,Damage_Gun
+1306,Miramar,2020-08-16T16:29:36.6004457Z,PlayerMale_A_C,None,Damage_Groggy
+1307,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,TorsoShot,Damage_Gun
+1308,Miramar,2020-08-16T16:29:36.6004457Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1309,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,PelvisShot,Damage_Gun
+1310,Miramar,2020-08-16T16:29:36.6004457Z,PlayerMale_A_C,None,Damage_Groggy
+1311,Miramar,2020-08-16T16:29:36.6004457Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1312,Miramar,2020-08-16T16:29:36.6004457Z,PlayerFemale_A_C,None,Damage_Groggy
+1313,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,TorsoShot,Damage_Gun
+1314,Miramar,2020-08-16T16:29:36.6004457Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+1315,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,TorsoShot,Damage_Gun
+1316,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,TorsoShot,Damage_Gun
+1317,Miramar,2020-08-16T16:29:36.6004457Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1318,Miramar,2020-08-16T16:29:36.6004457Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+1319,Miramar,2020-08-16T16:29:36.6004457Z,WeapSKS_C,PelvisShot,Damage_Gun
+1320,Miramar,2020-08-16T16:29:36.6004457Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1321,Miramar,2020-08-16T16:29:36.6004457Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1322,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,PelvisShot,Damage_Gun
+1323,Miramar,2020-08-16T16:29:36.6004457Z,PlayerFemale_A_C,None,Damage_Groggy
+1324,Miramar,2020-08-16T16:29:36.6004457Z,PlayerMale_A_C,None,Damage_Groggy
+1325,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,HeadShot,Damage_Gun
+1326,Miramar,2020-08-16T16:29:36.6004457Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1327,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,PelvisShot,Damage_Gun
+1328,Miramar,2020-08-16T16:29:36.6004457Z,PlayerMale_A_C,None,Damage_Groggy
+1329,Miramar,2020-08-16T16:29:36.6004457Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1330,Miramar,2020-08-16T16:29:36.6004457Z,WeapSKS_C,TorsoShot,Damage_Gun
+1331,Miramar,2020-08-16T16:29:36.6004457Z,WeapMini14_C,TorsoShot,Damage_Gun
+1332,Miramar,2020-08-16T16:29:36.6004457Z,WeapAWM_C,PelvisShot,Damage_Gun
+1333,Miramar,2020-08-16T16:29:36.6004457Z,PlayerMale_A_C,None,Damage_Groggy
+1334,Miramar,2020-08-16T16:29:36.6004457Z,PlayerFemale_A_C,None,Damage_Groggy
+1335,Miramar,2020-08-16T16:29:36.6004457Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1336,Miramar,2020-08-16T16:29:36.6004457Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1337,Miramar,2020-08-16T16:29:36.6004457Z,PlayerFemale_A_C,None,Damage_Groggy
+1338,Miramar,2020-08-16T16:29:36.6004457Z,PlayerMale_A_C,None,Damage_Groggy
+1339,Miramar,2020-08-16T16:29:36.6004457Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1340,Miramar,2020-08-16T16:29:36.6004457Z,PlayerFemale_A_C,None,Damage_Groggy
+1341,Miramar,2020-08-16T16:29:36.6004457Z,PlayerMale_A_C,None,Damage_Groggy
+1342,Miramar,2020-08-16T16:29:36.6004457Z,WeapHK416_C,PelvisShot,Damage_Gun
+1343,Miramar,2020-08-16T16:29:36.6004457Z,PlayerMale_A_C,None,Damage_Groggy
+1344,Miramar,2020-08-16T16:29:36.6004457Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1345,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1346,Miramar,2020-08-15T17:18:04.3262751Z,WeapMini14_C,TorsoShot,Damage_Gun
+1347,Miramar,2020-08-15T17:18:04.3262751Z,WeapHK416_C,LegShot,Damage_Gun
+1348,Miramar,2020-08-15T17:18:04.3262751Z,WeapSKS_C,PelvisShot,Damage_Gun
+1349,Miramar,2020-08-15T17:18:04.3262751Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1350,Miramar,2020-08-15T17:18:04.3262751Z,WeapMini14_C,TorsoShot,Damage_Gun
+1351,Miramar,2020-08-15T17:18:04.3262751Z,PlayerMale_A_C,None,Damage_Groggy
+1352,Miramar,2020-08-15T17:18:04.3262751Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1353,Miramar,2020-08-15T17:18:04.3262751Z,WeapSKS_C,TorsoShot,Damage_Gun
+1354,Miramar,2020-08-15T17:18:04.3262751Z,PlayerFemale_A_C,None,Damage_Groggy
+1355,Miramar,2020-08-15T17:18:04.3262751Z,PlayerFemale_A_C,None,Damage_Groggy
+1356,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1357,Miramar,2020-08-15T17:18:04.3262751Z,WeapMini14_C,HeadShot,Damage_Gun
+1358,Miramar,2020-08-15T17:18:04.3262751Z,PlayerMale_A_C,None,Damage_Groggy
+1359,Miramar,2020-08-15T17:18:04.3262751Z,WeapHK416_C,PelvisShot,Damage_Gun
+1360,Miramar,2020-08-15T17:18:04.3262751Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1361,Miramar,2020-08-15T17:18:04.3262751Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1362,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1363,Miramar,2020-08-15T17:18:04.3262751Z,PlayerFemale_A_C,None,Damage_Groggy
+1364,Miramar,2020-08-15T17:18:04.3262751Z,PlayerFemale_A_C,None,Damage_Groggy
+1365,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1366,Miramar,2020-08-15T17:18:04.3262751Z,PlayerFemale_A_C,None,Damage_Groggy
+1367,Miramar,2020-08-15T17:18:04.3262751Z,WeapFNFal_C,HeadShot,Damage_Gun
+1368,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1369,Miramar,2020-08-15T17:18:04.3262751Z,WeapMini14_C,HeadShot,Damage_Gun
+1370,Miramar,2020-08-15T17:18:04.3262751Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1371,Miramar,2020-08-15T17:18:04.3262751Z,WeapMini14_C,TorsoShot,Damage_Gun
+1372,Miramar,2020-08-15T17:18:04.3262751Z,PlayerMale_A_C,None,Damage_Groggy
+1373,Miramar,2020-08-15T17:18:04.3262751Z,WeapHK416_C,TorsoShot,Damage_Gun
+1374,Miramar,2020-08-15T17:18:04.3262751Z,WeapHK416_C,LegShot,Damage_Gun
+1375,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1376,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1377,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1378,Miramar,2020-08-15T17:18:04.3262751Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1379,Miramar,2020-08-15T17:18:04.3262751Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1380,Miramar,2020-08-15T17:18:04.3262751Z,WeapSKS_C,TorsoShot,Damage_Gun
+1381,Miramar,2020-08-15T17:18:04.3262751Z,WeapMk14_C,HeadShot,Damage_Gun
+1382,Miramar,2020-08-15T17:18:04.3262751Z,PlayerFemale_A_C,None,Damage_Groggy
+1383,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1384,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1385,Miramar,2020-08-15T17:18:04.3262751Z,WeapAK47_C,HeadShot,Damage_Gun
+1386,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1387,Miramar,2020-08-15T17:18:04.3262751Z,WeapFNFal_C,LegShot,Damage_Gun
+1388,Miramar,2020-08-15T17:18:04.3262751Z,PlayerFemale_A_C,None,Damage_Groggy
+1389,Miramar,2020-08-15T17:18:04.3262751Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1390,Miramar,2020-08-15T17:18:04.3262751Z,PlayerMale_A_C,None,Damage_Groggy
+1391,Miramar,2020-08-15T17:18:04.3262751Z,WeapMk14_C,HeadShot,Damage_Gun
+1392,Miramar,2020-08-15T17:18:04.3262751Z,PlayerFemale_A_C,None,Damage_Groggy
+1393,Miramar,2020-08-15T17:18:04.3262751Z,WeapHK416_C,TorsoShot,Damage_Gun
+1394,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1395,Miramar,2020-08-15T17:18:04.3262751Z,PlayerFemale_A_C,None,Damage_Groggy
+1396,Miramar,2020-08-15T17:18:04.3262751Z,WeapHK416_C,PelvisShot,Damage_Gun
+1397,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1398,Miramar,2020-08-15T17:18:04.3262751Z,WeapHK416_C,LegShot,Damage_Gun
+1399,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1400,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1401,Miramar,2020-08-15T17:18:04.3262751Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+1402,Miramar,2020-08-15T17:18:04.3262751Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1403,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,LegShot,Damage_Gun
+1404,Miramar,2020-08-15T17:18:04.3262751Z,PlayerFemale_A_C,None,Damage_Groggy
+1405,Miramar,2020-08-15T17:18:04.3262751Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1406,Miramar,2020-08-15T15:49:55.4406913Z,PlayerFemale_A_C,TorsoShot,Damage_Punch
+1407,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1408,Miramar,2020-08-15T15:49:55.4406913Z,WeapAK47_C,HeadShot,Damage_Gun
+1409,Miramar,2020-08-15T15:49:55.4406913Z,WeapHK416_C,HeadShot,Damage_Gun
+1410,Miramar,2020-08-15T15:49:55.4406913Z,WeapMini14_C,PelvisShot,Damage_Gun
+1411,Miramar,2020-08-15T15:49:55.4406913Z,WeapAK47_C,PelvisShot,Damage_Gun
+1412,Miramar,2020-08-15T15:49:55.4406913Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1413,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,LegShot,Damage_Gun
+1414,Miramar,2020-08-15T15:49:55.4406913Z,PlayerFemale_A_C,None,Damage_Groggy
+1415,Miramar,2020-08-15T15:49:55.4406913Z,PlayerFemale_A_C,None,Damage_Groggy
+1416,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,LegShot,Damage_Gun
+1417,Miramar,2020-08-15T15:49:55.4406913Z,WeapHK416_C,TorsoShot,Damage_Gun
+1418,Miramar,2020-08-15T15:49:55.4406913Z,WeapMini14_C,TorsoShot,Damage_Gun
+1419,Miramar,2020-08-15T15:49:55.4406913Z,PlayerFemale_A_C,None,Damage_Groggy
+1420,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1421,Miramar,2020-08-15T15:49:55.4406913Z,WeapMini14_C,HeadShot,Damage_Gun
+1422,Miramar,2020-08-15T15:49:55.4406913Z,WeapSKS_C,PelvisShot,Damage_Gun
+1423,Miramar,2020-08-15T15:49:55.4406913Z,WeapHK416_C,PelvisShot,Damage_Gun
+1424,Miramar,2020-08-15T15:49:55.4406913Z,PlayerFemale_A_C,None,Damage_Groggy
+1425,Miramar,2020-08-15T15:49:55.4406913Z,BP_Mirado_A_03_Esports_C,NonSpecific,Damage_VehicleHit
+1426,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1427,Miramar,2020-08-15T15:49:55.4406913Z,PlayerFemale_A_C,None,Damage_Groggy
+1428,Miramar,2020-08-15T15:49:55.4406913Z,PlayerFemale_A_C,None,Damage_Groggy
+1429,Miramar,2020-08-15T15:49:55.4406913Z,WeapMini14_C,TorsoShot,Damage_Gun
+1430,Miramar,2020-08-15T15:49:55.4406913Z,WeapFNFal_C,HeadShot,Damage_Gun
+1431,Miramar,2020-08-15T15:49:55.4406913Z,PlayerMale_A_C,None,Damage_Groggy
+1432,Miramar,2020-08-15T15:49:55.4406913Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1433,Miramar,2020-08-15T15:49:55.4406913Z,WeapFNFal_C,LegShot,Damage_Gun
+1434,Miramar,2020-08-15T15:49:55.4406913Z,PlayerFemale_A_C,None,Damage_Groggy
+1435,Miramar,2020-08-15T15:49:55.4406913Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+1436,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1437,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1438,Miramar,2020-08-15T15:49:55.4406913Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1439,Miramar,2020-08-15T15:49:55.4406913Z,WeapMini14_C,PelvisShot,Damage_Gun
+1440,Miramar,2020-08-15T15:49:55.4406913Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1441,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,LegShot,Damage_Gun
+1442,Miramar,2020-08-15T15:49:55.4406913Z,WeapMini14_C,TorsoShot,Damage_Gun
+1443,Miramar,2020-08-15T15:49:55.4406913Z,PlayerFemale_A_C,None,Damage_Groggy
+1444,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1445,Miramar,2020-08-15T15:49:55.4406913Z,PlayerFemale_A_C,None,Damage_Groggy
+1446,Miramar,2020-08-15T15:49:55.4406913Z,WeapMini14_C,TorsoShot,Damage_Gun
+1447,Miramar,2020-08-15T15:49:55.4406913Z,PlayerFemale_A_C,None,Damage_Groggy
+1448,Miramar,2020-08-15T15:49:55.4406913Z,WeapHK416_C,LegShot,Damage_Gun
+1449,Miramar,2020-08-15T15:49:55.4406913Z,WeapMini14_C,PelvisShot,Damage_Gun
+1450,Miramar,2020-08-15T15:49:55.4406913Z,WeapMini14_C,TorsoShot,Damage_Gun
+1451,Miramar,2020-08-15T15:49:55.4406913Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1452,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1453,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1454,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1455,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1456,Miramar,2020-08-15T15:49:55.4406913Z,WeapHK416_C,HeadShot,Damage_Gun
+1457,Miramar,2020-08-15T15:49:55.4406913Z,WeapHK416_C,LegShot,Damage_Gun
+1458,Miramar,2020-08-15T15:49:55.4406913Z,PlayerMale_A_C,None,Damage_Groggy
+1459,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1460,Miramar,2020-08-15T15:49:55.4406913Z,WeapFNFal_C,HeadShot,Damage_Gun
+1461,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1462,Miramar,2020-08-15T15:49:55.4406913Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1463,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1464,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1465,Miramar,2020-08-15T15:49:55.4406913Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1466,Miramar,2020-08-15T15:49:55.4406913Z,WeapHK416_C,ArmShot,Damage_Gun
+1467,Miramar,2020-08-09T17:16:02.9014444Z,PlayerFemale_A_C,None,Damage_Groggy
+1468,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1469,Miramar,2020-08-09T17:16:02.9014444Z,WeapSKS_C,HeadShot,Damage_Gun
+1470,Miramar,2020-08-09T17:16:02.9014444Z,PlayerFemale_A_C,None,Damage_Groggy
+1471,Miramar,2020-08-09T17:16:02.9014444Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Vehicle
+1472,Miramar,2020-08-09T17:16:02.9014444Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1473,Miramar,2020-08-09T17:16:02.9014444Z,PlayerFemale_A_C,None,Damage_Groggy
+1474,Miramar,2020-08-09T17:16:02.9014444Z,WeapHK416_C,TorsoShot,Damage_Gun
+1475,Miramar,2020-08-09T17:16:02.9014444Z,WeapSKS_C,HeadShot,Damage_Gun
+1476,Miramar,2020-08-09T17:16:02.9014444Z,WeapMini14_C,PelvisShot,Damage_Gun
+1477,Miramar,2020-08-09T17:16:02.9014444Z,PlayerMale_A_C,None,Damage_Groggy
+1478,Miramar,2020-08-09T17:16:02.9014444Z,PlayerMale_A_C,None,Damage_Groggy
+1479,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,LegShot,Damage_Gun
+1480,Miramar,2020-08-09T17:16:02.9014444Z,PlayerFemale_A_C,None,Damage_Groggy
+1481,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1482,Miramar,2020-08-09T17:16:02.9014444Z,WeapMini14_C,TorsoShot,Damage_Gun
+1483,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1484,Miramar,2020-08-09T17:16:02.9014444Z,WeapMini14_C,TorsoShot,Damage_Gun
+1485,Miramar,2020-08-09T17:16:02.9014444Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1486,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,LegShot,Damage_Gun
+1487,Miramar,2020-08-09T17:16:02.9014444Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1488,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1489,Miramar,2020-08-09T17:16:02.9014444Z,PlayerFemale_A_C,None,Damage_Groggy
+1490,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1491,Miramar,2020-08-09T17:16:02.9014444Z,WeapHK416_C,HeadShot,Damage_Gun
+1492,Miramar,2020-08-09T17:16:02.9014444Z,WeapSKS_C,LegShot,Damage_Gun
+1493,Miramar,2020-08-09T17:16:02.9014444Z,WeapMini14_C,TorsoShot,Damage_Gun
+1494,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1495,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1496,Miramar,2020-08-09T17:16:02.9014444Z,PlayerMale_A_C,None,Damage_Groggy
+1497,Miramar,2020-08-09T17:16:02.9014444Z,WeapGroza_C,TorsoShot,Damage_Gun
+1498,Miramar,2020-08-09T17:16:02.9014444Z,WeapMini14_C,HeadShot,Damage_Gun
+1499,Miramar,2020-08-09T17:16:02.9014444Z,WeapSKS_C,ArmShot,Damage_Gun
+1500,Miramar,2020-08-09T17:16:02.9014444Z,WeapGroza_C,TorsoShot,Damage_Gun
+1501,Miramar,2020-08-09T17:16:02.9014444Z,PlayerMale_A_C,None,Damage_Groggy
+1502,Miramar,2020-08-09T17:16:02.9014444Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1503,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1504,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1505,Miramar,2020-08-09T17:16:02.9014444Z,WeapMini14_C,PelvisShot,Damage_Gun
+1506,Miramar,2020-08-09T17:16:02.9014444Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1507,Miramar,2020-08-09T17:16:02.9014444Z,WeapMini14_C,TorsoShot,Damage_Gun
+1508,Miramar,2020-08-09T17:16:02.9014444Z,ProjMolotov_C,NonSpecific,Damage_Molotov
+1509,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1510,Miramar,2020-08-09T17:16:02.9014444Z,WeapMini14_C,HeadShot,Damage_Gun
+1511,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1512,Miramar,2020-08-09T17:16:02.9014444Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1513,Miramar,2020-08-09T17:16:02.9014444Z,WeapHK416_C,HeadShot,Damage_Gun
+1514,Miramar,2020-08-09T17:16:02.9014444Z,WeapMini14_C,TorsoShot,Damage_Gun
+1515,Miramar,2020-08-09T17:16:02.9014444Z,PlayerMale_A_C,None,Damage_Groggy
+1516,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1517,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1518,Miramar,2020-08-09T17:16:02.9014444Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1519,Miramar,2020-08-09T17:16:02.9014444Z,WeapFNFal_C,HeadShot,Damage_Gun
+1520,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1521,Miramar,2020-08-09T17:16:02.9014444Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1522,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1523,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1524,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,LegShot,Damage_Gun
+1525,Miramar,2020-08-09T17:16:02.9014444Z,PlayerFemale_A_C,None,Damage_Groggy
+1526,Miramar,2020-08-09T17:16:02.9014444Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1527,Miramar,2020-08-09T15:53:59.9868641Z,WeapMini14_C,TorsoShot,Damage_Gun
+1528,Miramar,2020-08-09T15:53:59.9868641Z,WeapFNFal_C,HeadShot,Damage_Gun
+1529,Miramar,2020-08-09T15:53:59.9868641Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1530,Miramar,2020-08-09T15:53:59.9868641Z,WeapMini14_C,TorsoShot,Damage_Gun
+1531,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1532,Miramar,2020-08-09T15:53:59.9868641Z,WeapFNFal_C,LegShot,Damage_Gun
+1533,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1534,Miramar,2020-08-09T15:53:59.9868641Z,PlayerFemale_A_C,None,Damage_Groggy
+1535,Miramar,2020-08-09T15:53:59.9868641Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1536,Miramar,2020-08-09T15:53:59.9868641Z,PlayerFemale_A_C,None,Damage_Groggy
+1537,Miramar,2020-08-09T15:53:59.9868641Z,PlayerFemale_A_C,None,Damage_Groggy
+1538,Miramar,2020-08-09T15:53:59.9868641Z,PlayerFemale_A_C,None,Damage_Groggy
+1539,Miramar,2020-08-09T15:53:59.9868641Z,WeapHK416_C,LegShot,Damage_Gun
+1540,Miramar,2020-08-09T15:53:59.9868641Z,WeapMini14_C,LegShot,Damage_Gun
+1541,Miramar,2020-08-09T15:53:59.9868641Z,WeapSCAR-L_C,ArmShot,Damage_Gun
+1542,Miramar,2020-08-09T15:53:59.9868641Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1543,Miramar,2020-08-09T15:53:59.9868641Z,PlayerFemale_A_C,None,Damage_Groggy
+1544,Miramar,2020-08-09T15:53:59.9868641Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1545,Miramar,2020-08-09T15:53:59.9868641Z,WeapHK416_C,TorsoShot,Damage_Gun
+1546,Miramar,2020-08-09T15:53:59.9868641Z,WeapMini14_C,HeadShot,Damage_Gun
+1547,Miramar,2020-08-09T15:53:59.9868641Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1548,Miramar,2020-08-09T15:53:59.9868641Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1549,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1550,Miramar,2020-08-09T15:53:59.9868641Z,PlayerFemale_A_C,None,Damage_Groggy
+1551,Miramar,2020-08-09T15:53:59.9868641Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1552,Miramar,2020-08-09T15:53:59.9868641Z,WeapMini14_C,LegShot,Damage_Gun
+1553,Miramar,2020-08-09T15:53:59.9868641Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1554,Miramar,2020-08-09T15:53:59.9868641Z,WeapSKS_C,PelvisShot,Damage_Gun
+1555,Miramar,2020-08-09T15:53:59.9868641Z,PlayerFemale_A_C,None,Damage_Groggy
+1556,Miramar,2020-08-09T15:53:59.9868641Z,WeapHK416_C,HeadShot,Damage_Gun
+1557,Miramar,2020-08-09T15:53:59.9868641Z,WeapMini14_C,PelvisShot,Damage_Gun
+1558,Miramar,2020-08-09T15:53:59.9868641Z,PlayerFemale_A_C,None,Damage_Groggy
+1559,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1560,Miramar,2020-08-09T15:53:59.9868641Z,WeapFNFal_C,HeadShot,Damage_Gun
+1561,Miramar,2020-08-09T15:53:59.9868641Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1562,Miramar,2020-08-09T15:53:59.9868641Z,WeapHK416_C,TorsoShot,Damage_Gun
+1563,Miramar,2020-08-09T15:53:59.9868641Z,WeapHK416_C,TorsoShot,Damage_Gun
+1564,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1565,Miramar,2020-08-09T15:53:59.9868641Z,WeapMini14_C,TorsoShot,Damage_Gun
+1566,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1567,Miramar,2020-08-09T15:53:59.9868641Z,WeapSKS_C,LegShot,Damage_Gun
+1568,Miramar,2020-08-09T15:53:59.9868641Z,WeapHK416_C,HeadShot,Damage_Gun
+1569,Miramar,2020-08-09T15:53:59.9868641Z,WeapMini14_C,TorsoShot,Damage_Gun
+1570,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1571,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1572,Miramar,2020-08-09T15:53:59.9868641Z,WeapMini14_C,HeadShot,Damage_Gun
+1573,Miramar,2020-08-09T15:53:59.9868641Z,WeapMini14_C,LegShot,Damage_Gun
+1574,Miramar,2020-08-09T15:53:59.9868641Z,WeapHK416_C,PelvisShot,Damage_Gun
+1575,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1576,Miramar,2020-08-09T15:53:59.9868641Z,WeapHK416_C,TorsoShot,Damage_Gun
+1577,Miramar,2020-08-09T15:53:59.9868641Z,PlayerFemale_A_C,None,Damage_Groggy
+1578,Miramar,2020-08-09T15:53:59.9868641Z,PlayerFemale_A_C,None,Damage_Groggy
+1579,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1580,Miramar,2020-08-09T15:53:59.9868641Z,PlayerMale_A_C,None,Damage_Groggy
+1581,Miramar,2020-08-09T15:53:59.9868641Z,PlayerFemale_A_C,None,Damage_Groggy
+1582,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1583,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1584,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1585,Miramar,2020-08-09T15:53:59.9868641Z,PlayerMale_A_C,None,Damage_Groggy
+1586,Miramar,2020-08-09T15:53:59.9868641Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1587,Miramar,2020-08-08T16:30:21.9320083Z,WeapFNFal_C,HeadShot,Damage_Gun
+1588,Miramar,2020-08-08T16:30:21.9320083Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1589,Miramar,2020-08-08T16:30:21.9320083Z,WeapHK416_C,TorsoShot,Damage_Gun
+1590,Miramar,2020-08-08T16:30:21.9320083Z,WeapM249_C,LegShot,Damage_Gun
+1591,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,TorsoShot,Damage_Gun
+1592,Miramar,2020-08-08T16:30:21.9320083Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1593,Miramar,2020-08-08T16:30:21.9320083Z,PlayerFemale_A_C,None,Damage_Groggy
+1594,Miramar,2020-08-08T16:30:21.9320083Z,PlayerFemale_A_C,None,Damage_Groggy
+1595,Miramar,2020-08-08T16:30:21.9320083Z,WeapM249_C,HeadShot,Damage_Gun
+1596,Miramar,2020-08-08T16:30:21.9320083Z,WeapSKS_C,TorsoShot,Damage_Gun
+1597,Miramar,2020-08-08T16:30:21.9320083Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1598,Miramar,2020-08-08T16:30:21.9320083Z,PlayerFemale_A_C,None,Damage_Groggy
+1599,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,TorsoShot,Damage_Gun
+1600,Miramar,2020-08-08T16:30:21.9320083Z,BP_PickupTruck_B_03_C,NonSpecific,Damage_VehicleHit
+1601,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,PelvisShot,Damage_Gun
+1602,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,HeadShot,Damage_Gun
+1603,Miramar,2020-08-08T16:30:21.9320083Z,WeapSKS_C,HeadShot,Damage_Gun
+1604,Miramar,2020-08-08T16:30:21.9320083Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1605,Miramar,2020-08-08T16:30:21.9320083Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1606,Miramar,2020-08-08T16:30:21.9320083Z,WeapFNFal_C,ArmShot,Damage_Gun
+1607,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,ArmShot,Damage_Gun
+1608,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,TorsoShot,Damage_Gun
+1609,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,HeadShot,Damage_Gun
+1610,Miramar,2020-08-08T16:30:21.9320083Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1611,Miramar,2020-08-08T16:30:21.9320083Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1612,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,PelvisShot,Damage_Gun
+1613,Miramar,2020-08-08T16:30:21.9320083Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1614,Miramar,2020-08-08T16:30:21.9320083Z,WeapBerylM762_C,LegShot,Damage_Gun
+1615,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,TorsoShot,Damage_Gun
+1616,Miramar,2020-08-08T16:30:21.9320083Z,PlayerFemale_A_C,None,Damage_Groggy
+1617,Miramar,2020-08-08T16:30:21.9320083Z,PlayerFemale_A_C,None,Damage_Groggy
+1618,Miramar,2020-08-08T16:30:21.9320083Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1619,Miramar,2020-08-08T16:30:21.9320083Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1620,Miramar,2020-08-08T16:30:21.9320083Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1621,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,HeadShot,Damage_Gun
+1622,Miramar,2020-08-08T16:30:21.9320083Z,PlayerFemale_A_C,None,Damage_Groggy
+1623,Miramar,2020-08-08T16:30:21.9320083Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1624,Miramar,2020-08-08T16:30:21.9320083Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+1625,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,TorsoShot,Damage_Gun
+1626,Miramar,2020-08-08T16:30:21.9320083Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+1627,Miramar,2020-08-08T16:30:21.9320083Z,WeapBerylM762_C,LegShot,Damage_Gun
+1628,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,TorsoShot,Damage_Gun
+1629,Miramar,2020-08-08T16:30:21.9320083Z,WeapAK47_C,ArmShot,Damage_Gun
+1630,Miramar,2020-08-08T16:30:21.9320083Z,WeapSCAR-L_C,ArmShot,Damage_Gun
+1631,Miramar,2020-08-08T16:30:21.9320083Z,WeapAK47_C,LegShot,Damage_Gun
+1632,Miramar,2020-08-08T16:30:21.9320083Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1633,Miramar,2020-08-08T16:30:21.9320083Z,PlayerFemale_A_C,None,Damage_Groggy
+1634,Miramar,2020-08-08T16:30:21.9320083Z,WeapHK416_C,TorsoShot,Damage_Gun
+1635,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,PelvisShot,Damage_Gun
+1636,Miramar,2020-08-08T16:30:21.9320083Z,WeapFNFal_C,HeadShot,Damage_Gun
+1637,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,LegShot,Damage_Gun
+1638,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,HeadShot,Damage_Gun
+1639,Miramar,2020-08-08T16:30:21.9320083Z,PlayerFemale_A_C,None,Damage_Groggy
+1640,Miramar,2020-08-08T16:30:21.9320083Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1641,Miramar,2020-08-08T16:30:21.9320083Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1642,Miramar,2020-08-08T16:30:21.9320083Z,WeapMini14_C,HeadShot,Damage_Gun
+1643,Miramar,2020-08-08T16:30:21.9320083Z,PlayerFemale_A_C,None,Damage_Groggy
+1644,Miramar,2020-08-08T16:30:21.9320083Z,PlayerMale_A_C,None,Damage_Groggy
+1645,Miramar,2020-08-08T16:30:21.9320083Z,WeapHK416_C,HeadShot,Damage_Gun
+1646,Miramar,2020-08-08T16:30:21.9320083Z,PlayerMale_A_C,None,Damage_Groggy
+1647,Miramar,2020-08-08T16:30:21.9320083Z,PlayerFemale_A_C,None,Damage_Groggy
+1648,Miramar,2020-08-08T16:30:21.9320083Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1649,Erangel (Remastered),2020-08-08T15:06:29.2464284Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1650,Erangel (Remastered),2020-08-08T15:06:29.2464284Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1651,Erangel (Remastered),2020-08-08T15:06:29.2464284Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1652,Erangel (Remastered),2020-08-08T15:06:29.2464284Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1653,Erangel (Remastered),2020-08-08T15:06:29.2464284Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1654,Erangel (Remastered),2020-08-08T15:06:29.2464284Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1655,Erangel (Remastered),2020-08-08T15:06:29.2464284Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1656,Erangel (Remastered),2020-08-08T15:06:29.2464284Z,Buff_DecreaseBreathInApnea_C,NonSpecific,Damage_Drown
+1657,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+1658,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1659,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1660,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1661,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,PlayerFemale_A_C,None,Damage_Groggy
+1662,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1663,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1664,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1665,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,LegShot,Damage_Gun
+1666,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1667,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1668,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1669,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1670,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1671,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,PlayerMale_A_C,None,Damage_Groggy
+1672,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1673,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1674,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1675,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapMini14_C,ArmShot,Damage_Gun
+1676,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapMini14_C,PelvisShot,Damage_Gun
+1677,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1678,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,LegShot,Damage_Gun
+1679,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1680,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1681,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1682,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1683,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+1684,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1685,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,ArmShot,Damage_Gun
+1686,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+1687,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1688,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapMini14_C,LegShot,Damage_Gun
+1689,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,LegShot,Damage_Gun
+1690,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+1691,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+1692,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,LegShot,Damage_Gun
+1693,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1694,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1695,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,PlayerFemale_A_C,None,Damage_Groggy
+1696,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,LegShot,Damage_Gun
+1697,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapMini14_C,TorsoShot,Damage_Gun
+1698,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,PlayerFemale_A_C,None,Damage_Groggy
+1699,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,LegShot,Damage_Gun
+1700,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1701,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,LegShot,Damage_Gun
+1702,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1703,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1704,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapMini14_C,HeadShot,Damage_Gun
+1705,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1706,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapHK416_C,LegShot,Damage_Gun
+1707,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,PlayerFemale_A_C,None,Damage_Groggy
+1708,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1709,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,PlayerFemale_A_C,None,Damage_Groggy
+1710,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+1711,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,HeadShot,Damage_Gun
+1712,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapFNFal_C,HeadShot,Damage_Gun
+1713,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1714,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1715,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,PlayerMale_A_C,None,Damage_Groggy
+1716,Erangel (Remastered),2020-08-07T18:39:25.1260012Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1717,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1718,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,LegShot,Damage_Gun
+1719,Miramar,2020-08-14T16:29:24.3028191Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1720,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1721,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1722,Miramar,2020-08-14T16:29:24.3028191Z,WeapHK416_C,TorsoShot,Damage_Gun
+1723,Miramar,2020-08-14T16:29:24.3028191Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1724,Miramar,2020-08-14T16:29:24.3028191Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1725,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1726,Miramar,2020-08-14T16:29:24.3028191Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1727,Miramar,2020-08-14T16:29:24.3028191Z,WeapHK416_C,PelvisShot,Damage_Gun
+1728,Miramar,2020-08-14T16:29:24.3028191Z,WeapMini14_C,ArmShot,Damage_Gun
+1729,Miramar,2020-08-14T16:29:24.3028191Z,WeapSKS_C,LegShot,Damage_Gun
+1730,Miramar,2020-08-14T16:29:24.3028191Z,WeapHK416_C,LegShot,Damage_Gun
+1731,Miramar,2020-08-14T16:29:24.3028191Z,WeapHK416_C,TorsoShot,Damage_Gun
+1732,Miramar,2020-08-14T16:29:24.3028191Z,WeapFNFal_C,HeadShot,Damage_Gun
+1733,Miramar,2020-08-14T16:29:24.3028191Z,WeapSKS_C,LegShot,Damage_Gun
+1734,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1735,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1736,Miramar,2020-08-14T16:29:24.3028191Z,WeapHK416_C,TorsoShot,Damage_Gun
+1737,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1738,Miramar,2020-08-14T16:29:24.3028191Z,PlayerFemale_A_C,None,Damage_Groggy
+1739,Miramar,2020-08-14T16:29:24.3028191Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1740,Miramar,2020-08-14T16:29:24.3028191Z,WeapFNFal_C,LegShot,Damage_Gun
+1741,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1742,Miramar,2020-08-14T16:29:24.3028191Z,WeapMini14_C,TorsoShot,Damage_Gun
+1743,Miramar,2020-08-14T16:29:24.3028191Z,WeapSKS_C,TorsoShot,Damage_Gun
+1744,Miramar,2020-08-14T16:29:24.3028191Z,PlayerFemale_A_C,None,Damage_Groggy
+1745,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1746,Miramar,2020-08-14T16:29:24.3028191Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1747,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1748,Miramar,2020-08-14T16:29:24.3028191Z,WeapSKS_C,HeadShot,Damage_Gun
+1749,Miramar,2020-08-14T16:29:24.3028191Z,WeapHK416_C,PelvisShot,Damage_Gun
+1750,Miramar,2020-08-14T16:29:24.3028191Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1751,Miramar,2020-08-14T16:29:24.3028191Z,PlayerFemale_A_C,None,Damage_Groggy
+1752,Miramar,2020-08-14T16:29:24.3028191Z,PlayerFemale_A_C,None,Damage_Groggy
+1753,Miramar,2020-08-14T16:29:24.3028191Z,PlayerFemale_A_C,None,Damage_Groggy
+1754,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1755,Miramar,2020-08-14T16:29:24.3028191Z,WeapMini14_C,TorsoShot,Damage_Gun
+1756,Miramar,2020-08-14T16:29:24.3028191Z,WeapMini14_C,LegShot,Damage_Gun
+1757,Miramar,2020-08-14T16:29:24.3028191Z,PlayerMale_A_C,None,Damage_Groggy
+1758,Miramar,2020-08-14T16:29:24.3028191Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1759,Miramar,2020-08-14T16:29:24.3028191Z,WeapMini14_C,PelvisShot,Damage_Gun
+1760,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1761,Miramar,2020-08-14T16:29:24.3028191Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1762,Miramar,2020-08-14T16:29:24.3028191Z,PlayerMale_A_C,None,Damage_Groggy
+1763,Miramar,2020-08-14T16:29:24.3028191Z,PlayerFemale_A_C,None,Damage_Groggy
+1764,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1765,Miramar,2020-08-14T16:29:24.3028191Z,PlayerMale_A_C,None,Damage_Groggy
+1766,Miramar,2020-08-14T16:29:24.3028191Z,WeapFNFal_C,HeadShot,Damage_Gun
+1767,Miramar,2020-08-14T16:29:24.3028191Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1768,Miramar,2020-08-14T16:29:24.3028191Z,WeapMini14_C,HeadShot,Damage_Gun
+1769,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1770,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1771,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1772,Miramar,2020-08-14T16:29:24.3028191Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+1773,Miramar,2020-08-14T16:29:24.3028191Z,WeapHK416_C,TorsoShot,Damage_Gun
+1774,Miramar,2020-08-14T16:29:24.3028191Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1775,Miramar,2020-08-14T16:29:24.3028191Z,PlayerMale_A_C,None,Damage_Groggy
+1776,Miramar,2020-08-14T16:29:24.3028191Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1777,Miramar,2020-08-14T15:50:41.0628337Z,WeapAK47_C,PelvisShot,Damage_Gun
+1778,Miramar,2020-08-14T15:50:41.0628337Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1779,Miramar,2020-08-14T15:50:41.0628337Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1780,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,TorsoShot,Damage_Gun
+1781,Miramar,2020-08-14T15:50:41.0628337Z,WeapAK47_C,TorsoShot,Damage_Gun
+1782,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,HeadShot,Damage_Gun
+1783,Miramar,2020-08-14T15:50:41.0628337Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1784,Miramar,2020-08-14T15:50:41.0628337Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1785,Miramar,2020-08-14T15:50:41.0628337Z,WeapSKS_C,TorsoShot,Damage_Gun
+1786,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,TorsoShot,Damage_Gun
+1787,Miramar,2020-08-14T15:50:41.0628337Z,WeapFNFal_C,ArmShot,Damage_Gun
+1788,Miramar,2020-08-14T15:50:41.0628337Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1789,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,LegShot,Damage_Gun
+1790,Miramar,2020-08-14T15:50:41.0628337Z,WeapAK47_C,LegShot,Damage_Gun
+1791,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,HeadShot,Damage_Gun
+1792,Miramar,2020-08-14T15:50:41.0628337Z,WeapBerylM762_C,NonSpecific,Damage_Explosion_Vehicle
+1793,Miramar,2020-08-14T15:50:41.0628337Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1794,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,PelvisShot,Damage_Gun
+1795,Miramar,2020-08-14T15:50:41.0628337Z,WeapFNFal_C,HeadShot,Damage_Gun
+1796,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,TorsoShot,Damage_Gun
+1797,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,TorsoShot,Damage_Gun
+1798,Miramar,2020-08-14T15:50:41.0628337Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1799,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,TorsoShot,Damage_Gun
+1800,Miramar,2020-08-14T15:50:41.0628337Z,PlayerFemale_A_C,None,Damage_Groggy
+1801,Miramar,2020-08-14T15:50:41.0628337Z,PlayerMale_A_C,None,Damage_Groggy
+1802,Miramar,2020-08-14T15:50:41.0628337Z,PlayerFemale_A_C,None,Damage_Groggy
+1803,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,HeadShot,Damage_Gun
+1804,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,TorsoShot,Damage_Gun
+1805,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,HeadShot,Damage_Gun
+1806,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,PelvisShot,Damage_Gun
+1807,Miramar,2020-08-14T15:50:41.0628337Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1808,Miramar,2020-08-14T15:50:41.0628337Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+1809,Miramar,2020-08-14T15:50:41.0628337Z,BP_PickupTruck_B_05_C,NonSpecific,Damage_VehicleHit
+1810,Miramar,2020-08-14T15:50:41.0628337Z,PlayerFemale_A_C,None,Damage_Groggy
+1811,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,PelvisShot,Damage_Gun
+1812,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,TorsoShot,Damage_Gun
+1813,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,TorsoShot,Damage_Gun
+1814,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,TorsoShot,Damage_Gun
+1815,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,HeadShot,Damage_Gun
+1816,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,TorsoShot,Damage_Gun
+1817,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,TorsoShot,Damage_Gun
+1818,Miramar,2020-08-14T15:50:41.0628337Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1819,Miramar,2020-08-14T15:50:41.0628337Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1820,Miramar,2020-08-14T15:50:41.0628337Z,PlayerMale_A_C,None,Damage_Groggy
+1821,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,HeadShot,Damage_Gun
+1822,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,TorsoShot,Damage_Gun
+1823,Miramar,2020-08-14T15:50:41.0628337Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+1824,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,LegShot,Damage_Gun
+1825,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,HeadShot,Damage_Gun
+1826,Miramar,2020-08-14T15:50:41.0628337Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1827,Miramar,2020-08-14T15:50:41.0628337Z,PlayerFemale_A_C,None,Damage_Groggy
+1828,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,TorsoShot,Damage_Gun
+1829,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,LegShot,Damage_Gun
+1830,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,TorsoShot,Damage_Gun
+1831,Miramar,2020-08-14T15:50:41.0628337Z,WeapAWM_C,LegShot,Damage_Gun
+1832,Miramar,2020-08-14T15:50:41.0628337Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1833,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,TorsoShot,Damage_Gun
+1834,Miramar,2020-08-14T15:50:41.0628337Z,WeapMini14_C,TorsoShot,Damage_Gun
+1835,Miramar,2020-08-14T15:50:41.0628337Z,WeapHK416_C,TorsoShot,Damage_Gun
+1836,Miramar,2020-08-14T15:50:41.0628337Z,PlayerMale_A_C,None,Damage_Groggy
+1837,Miramar,2020-08-14T15:50:41.0628337Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1838,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1839,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1840,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1841,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1842,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerFemale_A_C,None,Damage_Groggy
+1843,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerMale_A_C,None,Damage_Groggy
+1844,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapFNFal_C,HeadShot,Damage_Gun
+1845,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1846,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1847,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapHK416_C,TorsoShot,Damage_Gun
+1848,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerFemale_A_C,None,Damage_Groggy
+1849,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapHK416_C,TorsoShot,Damage_Gun
+1850,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,LegShot,Damage_Gun
+1851,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapHK416_C,ArmShot,Damage_Gun
+1852,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapFNFal_C,LegShot,Damage_Gun
+1853,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapMini14_C,TorsoShot,Damage_Gun
+1854,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapKar98k_C,HeadShot,Damage_Gun
+1855,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerFemale_A_C,None,Damage_Groggy
+1856,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapSCAR-L_C,LegShot,Damage_Gun
+1857,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapMini14_C,TorsoShot,Damage_Gun
+1858,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1859,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1860,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapMini14_C,LegShot,Damage_Gun
+1861,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+1862,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapSKS_C,ArmShot,Damage_Gun
+1863,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapFNFal_C,HeadShot,Damage_Gun
+1864,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1865,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1866,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1867,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1868,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerFemale_A_C,None,Damage_Groggy
+1869,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1870,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapHK416_C,PelvisShot,Damage_Gun
+1871,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,Uaz_B_01_esports_C,NonSpecific,Damage_VehicleHit
+1872,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerMale_A_C,None,Damage_Groggy
+1873,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerMale_A_C,None,Damage_Groggy
+1874,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1875,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapFNFal_C,LegShot,Damage_Gun
+1876,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapMini14_C,LegShot,Damage_Gun
+1877,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1878,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerMale_A_C,None,Damage_Groggy
+1879,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1880,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1881,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerFemale_A_C,None,Damage_Groggy
+1882,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerFemale_A_C,None,Damage_Groggy
+1883,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1884,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerFemale_A_C,None,Damage_Groggy
+1885,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1886,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapHK416_C,HeadShot,Damage_Gun
+1887,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapHK416_C,TorsoShot,Damage_Gun
+1888,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,HeadShot,Damage_Gun
+1889,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerFemale_A_C,None,Damage_Groggy
+1890,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerFemale_A_C,None,Damage_Groggy
+1891,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerFemale_A_C,None,Damage_Groggy
+1892,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1893,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapFNFal_C,LegShot,Damage_Gun
+1894,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1895,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,None,NonSpecific,Damage_Explosion_Vehicle
+1896,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,PlayerFemale_A_C,None,Damage_Groggy
+1897,Erangel (Remastered),2020-08-15T18:42:16.3758624Z,WeapFNFal_C,ArmShot,Damage_Gun
+1898,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapMini14_C,HeadShot,Damage_Gun
+1899,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,HeadShot,Damage_Gun
+1900,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,PlayerFemale_A_C,None,Damage_Groggy
+1901,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapHK416_C,HeadShot,Damage_Gun
+1902,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,LegShot,Damage_Gun
+1903,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,HeadShot,Damage_Gun
+1904,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapHK416_C,TorsoShot,Damage_Gun
+1905,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1906,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapMini14_C,PelvisShot,Damage_Gun
+1907,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapBerylM762_C,ArmShot,Damage_Gun
+1908,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1909,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,LegShot,Damage_Gun
+1910,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,PlayerMale_A_C,None,Damage_Groggy
+1911,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,HeadShot,Damage_Gun
+1912,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1913,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,HeadShot,Damage_Gun
+1914,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1915,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapHK416_C,PelvisShot,Damage_Gun
+1916,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,PlayerFemale_A_C,None,Damage_Groggy
+1917,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+1918,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,HeadShot,Damage_Gun
+1919,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,HeadShot,Damage_Gun
+1920,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapSKS_C,ArmShot,Damage_Gun
+1921,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1922,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapSKS_C,LegShot,Damage_Gun
+1923,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,ArmShot,Damage_Gun
+1924,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1925,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1926,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+1927,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,LegShot,Damage_Gun
+1928,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,PlayerMale_A_C,None,Damage_Groggy
+1929,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1930,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapSKS_C,PelvisShot,Damage_Gun
+1931,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,HeadShot,Damage_Gun
+1932,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1933,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+1934,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,BattleRoyaleModeController_Def_C,NonSpecific,Damage_BlueZone
+1935,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1936,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,PlayerFemale_A_C,None,Damage_Groggy
+1937,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1938,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,HeadShot,Damage_Gun
+1939,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1940,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapSKS_C,TorsoShot,Damage_Gun
+1941,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapMini14_C,TorsoShot,Damage_Gun
+1942,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1943,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapHK416_C,TorsoShot,Damage_Gun
+1944,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1945,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,PlayerMale_A_C,None,Damage_Groggy
+1946,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapSCAR-L_C,HeadShot,Damage_Gun
+1947,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,PlayerFemale_A_C,None,Damage_Groggy
+1948,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,Dacia_A_03_v2_Esports_C,NonSpecific,Damage_VehicleHit
+1949,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapMk14_C,PelvisShot,Damage_Gun
+1950,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,LegShot,Damage_Gun
+1951,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,PlayerFemale_A_C,None,Damage_Groggy
+1952,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapFNFal_C,HeadShot,Damage_Gun
+1953,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+1954,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1955,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapSCAR-L_C,HeadShot,Damage_Gun
+1956,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapSCAR-L_C,TorsoShot,Damage_Gun
+1957,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapMini14_C,TorsoShot,Damage_Gun
+1958,Erangel (Remastered),2020-08-09T17:59:17.7104462Z,WeapHK416_C,TorsoShot,Damage_Gun
+1959,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapHK416_C,LegShot,Damage_Gun
+1960,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapHK416_C,TorsoShot,Damage_Gun
+1961,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,PlayerFemale_A_C,None,Damage_Groggy
+1962,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,PlayerMale_A_C,None,Damage_Groggy
+1963,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapHK416_C,HeadShot,Damage_Gun
+1964,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapSCAR-L_C,PelvisShot,Damage_Gun
+1965,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapMini14_C,TorsoShot,Damage_Gun
+1966,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapSKS_C,TorsoShot,Damage_Gun
+1967,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapHK416_C,PelvisShot,Damage_Gun
+1968,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapBerylM762_C,LegShot,Damage_Gun
+1969,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1970,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapSKS_C,TorsoShot,Damage_Gun
+1971,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapHK416_C,TorsoShot,Damage_Gun
+1972,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+1973,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1974,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+1975,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+1976,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,PlayerMale_A_C,None,Damage_Groggy
+1977,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapMini14_C,PelvisShot,Damage_Gun
+1978,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,HeadShot,Damage_Gun
+1979,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,PlayerFemale_A_C,None,Damage_Groggy
+1980,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,PlayerFemale_A_C,None,Damage_Groggy
+1981,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapBerylM762_C,LegShot,Damage_Gun
+1982,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,LegShot,Damage_Gun
+1983,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,PlayerFemale_A_C,None,Damage_Groggy
+1984,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1985,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1986,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,ArmShot,Damage_Gun
+1987,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,HeadShot,Damage_Gun
+1988,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,PlayerFemale_A_C,None,Damage_Groggy
+1989,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,TorsoShot,Damage_Gun
+1990,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,ArmShot,Damage_Gun
+1991,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,LegShot,Damage_Gun
+1992,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,LegShot,Damage_Gun
+1993,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapMini14_C,PelvisShot,Damage_Gun
+1994,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+1995,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapMini14_C,PelvisShot,Damage_Gun
+1996,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapMini14_C,ArmShot,Damage_Gun
+1997,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,PelvisShot,Damage_Gun
+1998,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapMosinNagant_C,HeadShot,Damage_Gun
+1999,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,HeadShot,Damage_Gun
+2000,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapSKS_C,TorsoShot,Damage_Gun
+2001,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2002,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,PelvisShot,Damage_Gun
+2003,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2004,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,PelvisShot,Damage_Gun
+2005,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2006,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,HeadShot,Damage_Gun
+2007,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2008,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2009,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2010,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2011,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,ProjMolotov_C,NonSpecific,Damage_Molotov
+2012,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2013,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+2014,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,PlayerFemale_A_C,None,Damage_Groggy
+2015,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,WeapBerylM762_C,LegShot,Damage_Gun
+2016,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,PlayerFemale_A_C,None,Damage_Groggy
+2017,Erangel (Remastered),2020-08-07T19:19:17.3640095Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+2018,Miramar,2020-08-07T17:09:51.2077818Z,WeapSKS_C,HeadShot,Damage_Gun
+2019,Miramar,2020-08-07T17:09:51.2077818Z,WeapAK47_C,PelvisShot,Damage_Gun
+2020,Miramar,2020-08-07T17:09:51.2077818Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2021,Miramar,2020-08-07T17:09:51.2077818Z,PlayerFemale_A_C,None,Damage_Groggy
+2022,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,TorsoShot,Damage_Gun
+2023,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,PelvisShot,Damage_Gun
+2024,Miramar,2020-08-07T17:09:51.2077818Z,PlayerFemale_A_C,None,Damage_Groggy
+2025,Miramar,2020-08-07T17:09:51.2077818Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2026,Miramar,2020-08-07T17:09:51.2077818Z,WeapSKS_C,PelvisShot,Damage_Gun
+2027,Miramar,2020-08-07T17:09:51.2077818Z,PlayerFemale_A_C,None,Damage_Groggy
+2028,Miramar,2020-08-07T17:09:51.2077818Z,PlayerMale_A_C,None,Damage_Groggy
+2029,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,TorsoShot,Damage_Gun
+2030,Miramar,2020-08-07T17:09:51.2077818Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2031,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,TorsoShot,Damage_Gun
+2032,Miramar,2020-08-07T17:09:51.2077818Z,PlayerFemale_A_C,None,Damage_Groggy
+2033,Miramar,2020-08-07T17:09:51.2077818Z,PlayerFemale_A_C,None,Damage_Groggy
+2034,Miramar,2020-08-07T17:09:51.2077818Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2035,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,HeadShot,Damage_Gun
+2036,Miramar,2020-08-07T17:09:51.2077818Z,WeapFNFal_C,LegShot,Damage_Gun
+2037,Miramar,2020-08-07T17:09:51.2077818Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2038,Miramar,2020-08-07T17:09:51.2077818Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2039,Miramar,2020-08-07T17:09:51.2077818Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+2040,Miramar,2020-08-07T17:09:51.2077818Z,PlayerFemale_A_C,None,Damage_Groggy
+2041,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,HeadShot,Damage_Gun
+2042,Miramar,2020-08-07T17:09:51.2077818Z,WeapMini14_C,LegShot,Damage_Gun
+2043,Miramar,2020-08-07T17:09:51.2077818Z,WeapFNFal_C,LegShot,Damage_Gun
+2044,Miramar,2020-08-07T17:09:51.2077818Z,BP_MolotovFireDebuff_C,NonSpecific,Damage_Molotov
+2045,Miramar,2020-08-07T17:09:51.2077818Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2046,Miramar,2020-08-07T17:09:51.2077818Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2047,Miramar,2020-08-07T17:09:51.2077818Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2048,Miramar,2020-08-07T17:09:51.2077818Z,PlayerFemale_A_C,None,Damage_Groggy
+2049,Miramar,2020-08-07T17:09:51.2077818Z,WeapFNFal_C,HeadShot,Damage_Gun
+2050,Miramar,2020-08-07T17:09:51.2077818Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2051,Miramar,2020-08-07T17:09:51.2077818Z,WeapFNFal_C,LegShot,Damage_Gun
+2052,Miramar,2020-08-07T17:09:51.2077818Z,WeapFNFal_C,PelvisShot,Damage_Gun
+2053,Miramar,2020-08-07T17:09:51.2077818Z,PlayerFemale_A_C,None,Damage_Groggy
+2054,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,TorsoShot,Damage_Gun
+2055,Miramar,2020-08-07T17:09:51.2077818Z,PlayerMale_A_C,None,Damage_Groggy
+2056,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,LegShot,Damage_Gun
+2057,Miramar,2020-08-07T17:09:51.2077818Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+2058,Miramar,2020-08-07T17:09:51.2077818Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+2059,Miramar,2020-08-07T17:09:51.2077818Z,BP_FireEffectController_C,NonSpecific,Damage_Molotov
+2060,Miramar,2020-08-07T17:09:51.2077818Z,WeapSKS_C,LegShot,Damage_Gun
+2061,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,TorsoShot,Damage_Gun
+2062,Miramar,2020-08-07T17:09:51.2077818Z,WeapBerylM762_C,LegShot,Damage_Gun
+2063,Miramar,2020-08-07T17:09:51.2077818Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2064,Miramar,2020-08-07T17:09:51.2077818Z,PlayerFemale_A_C,None,Damage_Groggy
+2065,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,TorsoShot,Damage_Gun
+2066,Miramar,2020-08-07T17:09:51.2077818Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2067,Miramar,2020-08-07T17:09:51.2077818Z,WeapMini14_C,HeadShot,Damage_Gun
+2068,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,NonSpecific,Damage_Explosion_Vehicle
+2069,Miramar,2020-08-07T17:09:51.2077818Z,PlayerFemale_A_C,None,Damage_Groggy
+2070,Miramar,2020-08-07T17:09:51.2077818Z,PlayerMale_A_C,None,Damage_Groggy
+2071,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,HeadShot,Damage_Gun
+2072,Miramar,2020-08-07T17:09:51.2077818Z,WeapFNFal_C,PelvisShot,Damage_Gun
+2073,Miramar,2020-08-07T17:09:51.2077818Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2074,Miramar,2020-08-07T17:09:51.2077818Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2075,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,TorsoShot,Damage_Gun
+2076,Miramar,2020-08-07T17:09:51.2077818Z,WeapHK416_C,TorsoShot,Damage_Gun
+2077,Miramar,2020-08-07T17:09:51.2077818Z,WeapBerylM762_C,ArmShot,Damage_Gun
+2078,Erangel (Remastered),2020-08-02T16:32:32.8331518Z,PlayerMale_A_C,HeadShot,Damage_Punch
+2079,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2080,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2081,Miramar,2020-08-14T17:12:45.0053796Z,WeapHK416_C,LegShot,Damage_Gun
+2082,Miramar,2020-08-14T17:12:45.0053796Z,WeapHK416_C,TorsoShot,Damage_Gun
+2083,Miramar,2020-08-14T17:12:45.0053796Z,WeapHK416_C,PelvisShot,Damage_Gun
+2084,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2085,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2086,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2087,Miramar,2020-08-14T17:12:45.0053796Z,PlayerMale_A_C,None,Damage_Groggy
+2088,Miramar,2020-08-14T17:12:45.0053796Z,WeapHK416_C,TorsoShot,Damage_Gun
+2089,Miramar,2020-08-14T17:12:45.0053796Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2090,Miramar,2020-08-14T17:12:45.0053796Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2091,Miramar,2020-08-14T17:12:45.0053796Z,WeapHK416_C,LegShot,Damage_Gun
+2092,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2093,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,NonSpecific,Damage_Explosion_Vehicle
+2094,Miramar,2020-08-14T17:12:45.0053796Z,WeapSCAR-L_C,PelvisShot,Damage_Gun
+2095,Miramar,2020-08-14T17:12:45.0053796Z,PlayerMale_A_C,None,Damage_Groggy
+2096,Miramar,2020-08-14T17:12:45.0053796Z,WeapMini14_C,TorsoShot,Damage_Gun
+2097,Miramar,2020-08-14T17:12:45.0053796Z,WeapMini14_C,HeadShot,Damage_Gun
+2098,Miramar,2020-08-14T17:12:45.0053796Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+2099,Miramar,2020-08-14T17:12:45.0053796Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+2100,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2101,Miramar,2020-08-14T17:12:45.0053796Z,WeapHK416_C,TorsoShot,Damage_Gun
+2102,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2103,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+2104,Miramar,2020-08-14T17:12:45.0053796Z,WeapMini14_C,TorsoShot,Damage_Gun
+2105,Miramar,2020-08-14T17:12:45.0053796Z,WeapMini14_C,ArmShot,Damage_Gun
+2106,Miramar,2020-08-14T17:12:45.0053796Z,PlayerFemale_A_C,None,Damage_Groggy
+2107,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2108,Miramar,2020-08-14T17:12:45.0053796Z,WeapFNFal_C,PelvisShot,Damage_Gun
+2109,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2110,Miramar,2020-08-14T17:12:45.0053796Z,WeapMini14_C,PelvisShot,Damage_Gun
+2111,Miramar,2020-08-14T17:12:45.0053796Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+2112,Miramar,2020-08-14T17:12:45.0053796Z,WeapMini14_C,HeadShot,Damage_Gun
+2113,Miramar,2020-08-14T17:12:45.0053796Z,PlayerFemale_A_C,None,Damage_Groggy
+2114,Miramar,2020-08-14T17:12:45.0053796Z,WeapMini14_C,TorsoShot,Damage_Gun
+2115,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2116,Miramar,2020-08-14T17:12:45.0053796Z,WeapFNFal_C,HeadShot,Damage_Gun
+2117,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2118,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2119,Miramar,2020-08-14T17:12:45.0053796Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+2120,Miramar,2020-08-14T17:12:45.0053796Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2121,Miramar,2020-08-14T17:12:45.0053796Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2122,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+2123,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2124,Miramar,2020-08-14T17:12:45.0053796Z,PlayerFemale_A_C,None,Damage_Groggy
+2125,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2126,Miramar,2020-08-14T17:12:45.0053796Z,WeapHK416_C,TorsoShot,Damage_Gun
+2127,Miramar,2020-08-14T17:12:45.0053796Z,WeapMini14_C,TorsoShot,Damage_Gun
+2128,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2129,Miramar,2020-08-14T17:12:45.0053796Z,PlayerFemale_A_C,None,Damage_Groggy
+2130,Miramar,2020-08-14T17:12:45.0053796Z,WeapHK416_C,TorsoShot,Damage_Gun
+2131,Miramar,2020-08-14T17:12:45.0053796Z,WeapMini14_C,TorsoShot,Damage_Gun
+2132,Miramar,2020-08-14T17:12:45.0053796Z,WeapHK416_C,TorsoShot,Damage_Gun
+2133,Miramar,2020-08-14T17:12:45.0053796Z,WeapHK416_C,PelvisShot,Damage_Gun
+2134,Miramar,2020-08-14T17:12:45.0053796Z,PlayerMale_A_C,None,Damage_Groggy
+2135,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2136,Miramar,2020-08-14T17:12:45.0053796Z,PlayerFemale_A_C,None,Damage_Groggy
+2137,Miramar,2020-08-14T17:12:45.0053796Z,PlayerFemale_A_C,None,Damage_Groggy
+2138,Miramar,2020-08-14T17:12:45.0053796Z,WeapHK416_C,TorsoShot,Damage_Gun
+2139,Miramar,2020-08-14T17:12:45.0053796Z,PlayerMale_A_C,None,Damage_Groggy
+2140,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2141,Miramar,2020-08-14T17:12:45.0053796Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2142,Miramar,2020-08-08T15:50:46.7951611Z,WeapAK47_C,TorsoShot,Damage_Gun
+2143,Miramar,2020-08-08T15:50:46.7951611Z,WeapAK47_C,TorsoShot,Damage_Gun
+2144,Miramar,2020-08-08T15:50:46.7951611Z,PlayerFemale_A_C,None,Damage_Groggy
+2145,Miramar,2020-08-08T15:50:46.7951611Z,WeapFNFal_C,LegShot,Damage_Gun
+2146,Miramar,2020-08-08T15:50:46.7951611Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2147,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2148,Miramar,2020-08-08T15:50:46.7951611Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+2149,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,LegShot,Damage_Gun
+2150,Miramar,2020-08-08T15:50:46.7951611Z,WeapFNFal_C,HeadShot,Damage_Gun
+2151,Miramar,2020-08-08T15:50:46.7951611Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2152,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2153,Miramar,2020-08-08T15:50:46.7951611Z,PlayerFemale_A_C,None,Damage_Groggy
+2154,Miramar,2020-08-08T15:50:46.7951611Z,WeapMini14_C,HeadShot,Damage_Gun
+2155,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,LegShot,Damage_Gun
+2156,Miramar,2020-08-08T15:50:46.7951611Z,PlayerFemale_A_C,None,Damage_Groggy
+2157,Miramar,2020-08-08T15:50:46.7951611Z,WeapFNFal_C,PelvisShot,Damage_Gun
+2158,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,PelvisShot,Damage_Gun
+2159,Miramar,2020-08-08T15:50:46.7951611Z,WeapMini14_C,TorsoShot,Damage_Gun
+2160,Miramar,2020-08-08T15:50:46.7951611Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2161,Miramar,2020-08-08T15:50:46.7951611Z,WeapMini14_C,HeadShot,Damage_Gun
+2162,Miramar,2020-08-08T15:50:46.7951611Z,WeapMini14_C,TorsoShot,Damage_Gun
+2163,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,LegShot,Damage_Gun
+2164,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2165,Miramar,2020-08-08T15:50:46.7951611Z,WeapHK416_C,TorsoShot,Damage_Gun
+2166,Miramar,2020-08-08T15:50:46.7951611Z,WeapMini14_C,HeadShot,Damage_Gun
+2167,Miramar,2020-08-08T15:50:46.7951611Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2168,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2169,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2170,Miramar,2020-08-08T15:50:46.7951611Z,WeapMk14_C,PelvisShot,Damage_Gun
+2171,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2172,Miramar,2020-08-08T15:50:46.7951611Z,WeapMini14_C,PelvisShot,Damage_Gun
+2173,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2174,Miramar,2020-08-08T15:50:46.7951611Z,BattleRoyaleModeController_Desert_C,NonSpecific,Damage_BlueZone
+2175,Miramar,2020-08-08T15:50:46.7951611Z,PlayerFemale_A_C,None,Damage_Groggy
+2176,Miramar,2020-08-08T15:50:46.7951611Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2177,Miramar,2020-08-08T15:50:46.7951611Z,WeapMini14_C,PelvisShot,Damage_Gun
+2178,Miramar,2020-08-08T15:50:46.7951611Z,PlayerFemale_A_C,None,Damage_Groggy
+2179,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,LegShot,Damage_Gun
+2180,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2181,Miramar,2020-08-08T15:50:46.7951611Z,WeapHK416_C,HeadShot,Damage_Gun
+2182,Miramar,2020-08-08T15:50:46.7951611Z,None,NonSpecific,Damage_Explosion_Vehicle
+2183,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2184,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2185,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,HeadShot,Damage_Gun
+2186,Miramar,2020-08-08T15:50:46.7951611Z,WeapHK416_C,HeadShot,Damage_Gun
+2187,Miramar,2020-08-08T15:50:46.7951611Z,PlayerFemale_A_C,None,Damage_Groggy
+2188,Miramar,2020-08-08T15:50:46.7951611Z,WeapHK416_C,TorsoShot,Damage_Gun
+2189,Miramar,2020-08-08T15:50:46.7951611Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2190,Miramar,2020-08-08T15:50:46.7951611Z,PlayerFemale_A_C,None,Damage_Groggy
+2191,Miramar,2020-08-08T15:50:46.7951611Z,WeapFNFal_C,HeadShot,Damage_Gun
+2192,Miramar,2020-08-08T15:50:46.7951611Z,PlayerFemale_A_C,None,Damage_Groggy
+2193,Miramar,2020-08-08T15:50:46.7951611Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2194,Miramar,2020-08-08T15:50:46.7951611Z,PlayerFemale_A_C,None,Damage_Groggy
+2195,Miramar,2020-08-08T15:50:46.7951611Z,WeapFNFal_C,TorsoShot,Damage_Gun
+2196,Miramar,2020-08-08T15:50:46.7951611Z,WeapMk14_C,ArmShot,Damage_Gun
+2197,Miramar,2020-08-08T15:50:46.7951611Z,ProjGrenade_C,NonSpecific,Damage_Explosion_Grenade
+2198,Miramar,2020-08-08T15:50:46.7951611Z,WeapBerylM762_C,TorsoShot,Damage_Gun
+2199,Miramar,2020-08-08T15:50:46.7951611Z,WeapAK47_C,TorsoShot,Damage_Gun
+2200,Miramar,2020-08-08T15:50:46.7951611Z,WeapHK416_C,ArmShot,Damage_Gun
+2201,Miramar,2020-08-08T15:50:46.7951611Z,WeapHK416_C,LegShot,Damage_Gun
